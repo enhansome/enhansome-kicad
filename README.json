@@ -1,0 +1,755 @@
+{
+  "items": [
+    {
+      "description": "Please take a quick gander at the contribution guidelines first. Thanks to all contributors; you rock!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KiKit",
+          "description": "Library and CLI tool to panelize boards, export manufacturing data and build board presentation pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T19:09:04Z",
+            "owner": "yaqwsx",
+            "repo": "KiKit",
+            "stars": 2006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReplicateLayout",
+          "description": "Extension to replicate the PCB layout of one hierarchical sheet to other sheets based on hierarchical sheets in Eeschema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:58:17Z",
+            "owner": "MitjaNemec",
+            "repo": "ReplicateLayout",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panelize-plugin",
+          "description": "Automatic KiCad panelization plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-16T13:45:09Z",
+            "owner": "msvisser",
+            "repo": "panelize-plugin",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "Panelization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kicad JLCPCB Tools",
+          "description": "Plugin to generate all files necessary for JLCPCB board fabrication and assembly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T10:14:35Z",
+            "owner": "Bouni",
+            "repo": "kicad-jlcpcb-tools",
+            "stars": 2025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCost",
+          "description": "Build cost spreadsheet for a KiCad project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T14:46:35Z",
+            "owner": "hildogjr",
+            "repo": "KiCost",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiBoM",
+          "description": "Configurable BoM generation tool for KiCad EDA",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-03-24T01:01:10Z",
+            "owner": "SchrodingersGat",
+            "repo": "KiBoM",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JLCKicadTools",
+          "description": "Tool for using JLCPCB assembly service with KiCad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T16:56:45Z",
+            "owner": "matthewlai",
+            "repo": "JLCKicadTools",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCad JLCPCB BOM Plugin",
+          "description": "Export a JLCPCB Compatible BOM directly from your KiCad schematic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T08:04:17Z",
+            "owner": "wokwi",
+            "repo": "kicad-jlcpcb-bom-plugin",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicad-gerberzipper",
+          "description": "KiCad Plot and Zip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T04:10:49Z",
+            "owner": "g200kg",
+            "repo": "kicad-gerberzipper",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gerber_to_order",
+          "description": "A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T13:58:50Z",
+            "owner": "asukiaaa",
+            "repo": "gerber_to_order",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiZip",
+          "description": "KiCad Plugin to package gerbers ready for ordering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-19T14:58:59Z",
+            "owner": "gregdavill",
+            "repo": "KiZip",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicad-bom-seeedstudio",
+          "description": "KiCad BOM plugin to follow Seeed Studio's Fusion PCBA template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-09T23:50:54Z",
+            "owner": "imrehg",
+            "repo": "kicad-bom-seeedstudio",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copper Thief Plugin",
+          "description": "Copper Thieving Plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-03T08:13:08Z",
+            "owner": "mrussell42",
+            "repo": "copper_thief",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCad Better BOM",
+          "description": "Yet another pretty BOM generator for KiCad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T07:42:29Z",
+            "owner": "AlexanderNickolsky",
+            "repo": "KiCad-Better-BOM",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiABOM",
+          "description": "Simple BOM generation with online supplier data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T09:52:33Z",
+            "owner": "Mage-Control-Systems-Ltd",
+            "repo": "KiABOM",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BOM2Md",
+          "description": "Plugin for KiCAD to generate a Bill of Materials formatted as a Markdown table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-28T10:15:39Z",
+            "owner": "AlexSartori",
+            "repo": "kicad-bom2md",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Manufacturing BOM and Gerbers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FreeRouting",
+          "description": "Advanced PCB auto-router",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T10:12:54Z",
+            "owner": "freerouting",
+            "repo": "freerouting",
+            "stars": 1866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SKiDL",
+          "description": "A module that extends Python with the ability to design electronic circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:55:22Z",
+            "owner": "devbisme",
+            "repo": "skidl",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PcbDraw",
+          "description": "Convert your KiCAD boards into nice looking 2D drawings suitable for pinout diagrams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T12:01:22Z",
+            "owner": "yaqwsx",
+            "repo": "PcbDraw",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svg2Shenzhen",
+          "description": "(Discontinued) Inkscape extension for exporting drawings into a KiCad PCB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-15T13:51:04Z",
+            "owner": "badgeek",
+            "repo": "svg2shenzhen",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCad RF Tools",
+          "description": "Footprints, wizards and round tracks, mask expander, via fencing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-11T13:11:28Z",
+            "owner": "easyw",
+            "repo": "RF-tools-KiCAD",
+            "stars": 825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCad Templates",
+          "description": "Provides a number of additional Board and production house templates for KiCad EDA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-10-24T23:41:12Z",
+            "owner": "sethhillbrand",
+            "repo": "kicad_templates",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiBot",
+          "description": "KiCad automation utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:19:59Z",
+            "owner": "INTI-CMNB",
+            "repo": "KiBot",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uConfig",
+          "description": "Datasheet pinout extractor from PDF and library Stylizer for Kicad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-24T07:45:06Z",
+            "owner": "Robotips",
+            "repo": "uConfig",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiBuzzard",
+          "description": "Create labels in various fonts, and with inverted backgrounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T12:00:50Z",
+            "owner": "gregdavill",
+            "repo": "KiBuzzard",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svg2mod",
+          "description": "Convert Inkscape SVG drawings to KiCad footprint modules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-01T21:50:02Z",
+            "owner": "mtl",
+            "repo": "svg2mod",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Import-LIB-KiCad-Plugin",
+          "description": "Import KiCad component libraries imported from Ultralibrarian and SnapEDA zipfiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T19:09:59Z",
+            "owner": "Steffen-W",
+            "repo": "Import-LIB-KiCad-Plugin",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gingerbread",
+          "description": "A tool for converting vector artwork to KiCAD PCB files that lives in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-24T23:26:05Z",
+            "owner": "wntrblm",
+            "repo": "Gingerbread",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stretch",
+          "description": "Allow your PCBs to stretch!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T15:41:18Z",
+            "owner": "JarrettR",
+            "repo": "Stretch",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circuitron",
+          "description": "Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-06T10:14:05Z",
+            "owner": "Shaurya-Sethi",
+            "repo": "circuitron",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kobee Studio",
+          "description": "Modern PCB graphics toolkit for KiCad with customizable labels, icons, component overlays, QR codes, barcodes, and custom SVG assets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T12:25:23Z",
+            "owner": "mrcpuddington",
+            "repo": "kobeestudio",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laser Stencil Plugin",
+          "description": "KiCAD Pcbnew plugin to generat laser cutter G-Code files for solder paste stencils",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-13T17:09:12Z",
+            "owner": "ma-ha",
+            "repo": "kicad-laser-stencil-plugin",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Img2Silk",
+          "description": "Dither images into PCB graphics using Floyd–Steinberg, Atkinson, Bayer and other algorithms, in B&W or multi-color using board layers as a palette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T11:52:23Z",
+            "owner": "NBalciunas",
+            "repo": "kicad-img2silk",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NCCM",
+          "description": "Net Class Clearance Matrix (NCCM) to generate custom rules for clearances between net classes through a matrix GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T10:21:37Z",
+            "owner": "Mage-Control-Systems-Ltd",
+            "repo": "NCCM",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stimulu KiCad Plugins",
+          "description": "Collection of KiCad plugins to reproduce or use Stimulu board files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-12T17:37:17Z",
+            "owner": "stimulu",
+            "repo": "stimulu-kicad-plugins",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rectangulator",
+          "description": "A simple plug-in that automatically turns zones into perfect rectangles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T21:59:05Z",
+            "owner": "msolomentsev",
+            "repo": "rectangulator",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typeCAD",
+          "description": "Programmatically create hardware designs with TypeScript. Create/reuse/import version-controlled packages between projects.",
+          "children": []
+        }
+      ],
+      "title": "PCB Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kicanvas",
+          "description": "KiCanvas is an interactive, browser-based viewer for KiCAD schematics and boards",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-28T17:37:55Z",
+            "owner": "theacodes",
+            "repo": "kicanvas",
+            "stars": 1118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicad-happy",
+          "description": "AI-powered design review for KiCad — schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing prep via Claude Code skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T20:44:02Z",
+            "owner": "aklofas",
+            "repo": "kicad-happy",
+            "stars": 952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiri",
+          "description": "A tool for reviewing Kicad's projects visually including schematics and layout using Kicad-Diff and Plotgitsch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-22T08:41:28Z",
+            "owner": "leoheck",
+            "repo": "kiri",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCadStepUp",
+          "description": "KiCad StepUp is a FreeCAD Workbench to help in mechanical collaboration between KiCad EDA and FreeCAD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:41:01Z",
+            "owner": "easyw",
+            "repo": "kicadStepUpMod",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCad-Diff",
+          "description": "Plugin to perform image diffs between pcbnew layout revisions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T14:11:50Z",
+            "owner": "Gasman2014",
+            "repo": "KiCad-Diff",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gerber2ems",
+          "description": "Takes PCB production files as input (Gerber, drill files, stackup information) and simulates trace SI performance using openEMS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T09:34:36Z",
+            "owner": "antmicro",
+            "repo": "gerber2ems",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plotkicadsch",
+          "description": "Export Kicad Sch files to structured picture files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-07-28T15:57:28Z",
+            "owner": "jnavila",
+            "repo": "plotkicadsch",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gerber2blend",
+          "description": "open-source utility to generate 3D models of Printed Circuit Boards (PCBs) in Blender ( format)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-11T14:42:45Z",
+            "owner": "antmicro",
+            "repo": "gerber2blend",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RFsim",
+          "description": "KiCad 10 plugin for simulating S-parameters, E/H fields and far field of an RF structure directly in the PCB editor with the openEMS FDTD solver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T06:23:40Z",
+            "owner": "NBalciunas",
+            "repo": "kicad-rfsim",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Reviewing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Altium2Kicad",
+          "description": "Altium to KiCad converter for PCB and schematics",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Perl",
+            "last_commit": "2026-06-23T13:04:01Z",
+            "owner": "thesourcerer8",
+            "repo": "altium2kicad",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eagle to KiCad",
+          "description": "Eagle SCH/LIB to KiCad SCH/LIB ULP conversion script",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "NASL",
+            "last_commit": "2022-01-03T20:55:47Z",
+            "owner": "lachlanA",
+            "repo": "eagle-to-kicad",
+            "stars": 427
+          }
+        }
+      ],
+      "title": "Converters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keyboard PCB guide",
+          "description": "Guide on how to design keyboard PCBs with KiCad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-02T01:32:39Z",
+            "owner": "ruiqimao",
+            "repo": "keyboard-pcb-guide",
+            "stars": 4926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hawk",
+          "description": "Tutorial for making an ARM dev board in KiCAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-11-06T20:28:11Z",
+            "owner": "MalphasWats",
+            "repo": "hawk",
+            "stars": 480
+          }
+        }
+      ],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:13:22.717Z",
+    "original_repository": "joanbono/awesome-kicad",
+    "original_repository_sha": "a2fe8322415ee46b351a4001f93191312c3a8f11",
+    "enhanced_repository": "enhansome/enhansome-kicad",
+    "enhanced_repository_description": null,
+    "title": "Awesome Kicad with stars"
+  }
+}
