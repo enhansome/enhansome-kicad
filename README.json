@@ -77,7 +77,7 @@
             "last_commit": "2026-07-30T10:14:35Z",
             "owner": "Bouni",
             "repo": "kicad-jlcpcb-tools",
-            "stars": 2026
+            "stars": 2028
           }
         },
         {
@@ -262,10 +262,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T21:01:56Z",
+            "last_commit": "2026-08-14T21:35:48Z",
             "owner": "freerouting",
             "repo": "freerouting",
-            "stars": 1870
+            "stars": 1871
           }
         },
         {
@@ -276,7 +276,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T02:55:22Z",
+            "last_commit": "2026-08-14T13:33:46Z",
             "owner": "devbisme",
             "repo": "skidl",
             "stars": 1621
@@ -293,7 +293,7 @@
             "last_commit": "2026-08-07T12:01:22Z",
             "owner": "yaqwsx",
             "repo": "PcbDraw",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -346,10 +346,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:42:11Z",
+            "last_commit": "2026-08-14T13:52:17Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
-            "stars": 730
+            "stars": 731
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2026-08-09T12:25:23Z",
             "owner": "mrcpuddington",
             "repo": "kobeestudio",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2026-08-01T20:44:02Z",
             "owner": "aklofas",
             "repo": "kicad-happy",
-            "stars": 958
+            "stars": 964
           }
         },
         {
@@ -596,7 +596,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T14:41:01Z",
+            "last_commit": "2026-08-14T16:58:54Z",
             "owner": "easyw",
             "repo": "kicadStepUpMod",
             "stars": 677
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:09:02.543Z",
+    "last_updated": "2026-08-15T09:30:34.911Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_sha": "a2fe8322415ee46b351a4001f93191312c3a8f11",
     "enhanced_repository": "enhansome/enhansome-kicad",
