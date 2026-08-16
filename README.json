@@ -29,7 +29,7 @@
             "last_commit": "2026-08-05T19:09:04Z",
             "owner": "yaqwsx",
             "repo": "KiKit",
-            "stars": 2006
+            "stars": 2007
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-07-30T10:14:35Z",
             "owner": "Bouni",
             "repo": "kicad-jlcpcb-tools",
-            "stars": 2028
+            "stars": 2031
           }
         },
         {
@@ -262,10 +262,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T21:35:48Z",
+            "last_commit": "2026-08-15T21:05:31Z",
             "owner": "freerouting",
             "repo": "freerouting",
-            "stars": 1871
+            "stars": 1873
           }
         },
         {
@@ -276,7 +276,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:33:46Z",
+            "last_commit": "2026-08-15T14:26:47Z",
             "owner": "devbisme",
             "repo": "skidl",
             "stars": 1621
@@ -293,7 +293,7 @@
             "last_commit": "2026-08-07T12:01:22Z",
             "owner": "yaqwsx",
             "repo": "PcbDraw",
-            "stars": 1408
+            "stars": 1409
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2019-10-24T23:41:12Z",
             "owner": "sethhillbrand",
             "repo": "kicad_templates",
-            "stars": 756
+            "stars": 758
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-02-24T07:45:06Z",
             "owner": "Robotips",
             "repo": "uConfig",
-            "stars": 582
+            "stars": 583
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2026-08-09T12:25:23Z",
             "owner": "mrcpuddington",
             "repo": "kobeestudio",
-            "stars": 59
+            "stars": 61
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2026-08-01T20:44:02Z",
             "owner": "aklofas",
             "repo": "kicad-happy",
-            "stars": 964
+            "stars": 969
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-08-10T06:23:40Z",
             "owner": "NBalciunas",
             "repo": "kicad-rfsim",
-            "stars": 20
+            "stars": 21
           }
         }
       ],
@@ -689,7 +689,7 @@
             "last_commit": "2026-06-23T13:04:01Z",
             "owner": "thesourcerer8",
             "repo": "altium2kicad",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4926
+            "stars": 4929
           }
         },
         {
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:30:34.911Z",
+    "last_updated": "2026-08-16T09:31:30.083Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_sha": "a2fe8322415ee46b351a4001f93191312c3a8f11",
     "enhanced_repository": "enhansome/enhansome-kicad",
