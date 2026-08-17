@@ -77,7 +77,7 @@
             "last_commit": "2026-07-30T10:14:35Z",
             "owner": "Bouni",
             "repo": "kicad-jlcpcb-tools",
-            "stars": 2031
+            "stars": 2033
           }
         },
         {
@@ -262,10 +262,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T21:05:31Z",
+            "last_commit": "2026-08-17T09:43:03Z",
             "owner": "freerouting",
             "repo": "freerouting",
-            "stars": 1873
+            "stars": 1878
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-15T14:26:47Z",
             "owner": "devbisme",
             "repo": "skidl",
-            "stars": 1621
+            "stars": 1624
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-05-01T19:09:59Z",
             "owner": "Steffen-W",
             "repo": "Import-LIB-KiCad-Plugin",
-            "stars": 245
+            "stars": 246
           }
         },
         {
@@ -416,7 +416,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2025-11-24T23:26:05Z",
+            "last_commit": "2026-08-16T19:04:07Z",
             "owner": "wntrblm",
             "repo": "Gingerbread",
             "stars": 206
@@ -461,7 +461,7 @@
             "last_commit": "2026-08-09T12:25:23Z",
             "owner": "mrcpuddington",
             "repo": "kobeestudio",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -475,7 +475,7 @@
             "last_commit": "2024-07-13T17:09:12Z",
             "owner": "ma-ha",
             "repo": "kicad-laser-stencil-plugin",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -557,7 +557,7 @@
             "last_commit": "2026-04-28T17:37:55Z",
             "owner": "theacodes",
             "repo": "kicanvas",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -571,7 +571,7 @@
             "last_commit": "2026-08-01T20:44:02Z",
             "owner": "aklofas",
             "repo": "kicad-happy",
-            "stars": 969
+            "stars": 977
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-06-22T08:41:28Z",
             "owner": "leoheck",
             "repo": "kiri",
-            "stars": 699
+            "stars": 700
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-08-14T16:58:54Z",
             "owner": "easyw",
             "repo": "kicadStepUpMod",
-            "stars": 677
+            "stars": 679
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-04-23T09:34:36Z",
             "owner": "antmicro",
             "repo": "gerber2ems",
-            "stars": 251
+            "stars": 252
           }
         },
         {
@@ -655,7 +655,7 @@
             "last_commit": "2025-12-11T14:42:45Z",
             "owner": "antmicro",
             "repo": "gerber2blend",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4929
+            "stars": 4930
           }
         },
         {
@@ -745,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:31:30.083Z",
+    "last_updated": "2026-08-17T09:48:55.655Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_sha": "a2fe8322415ee46b351a4001f93191312c3a8f11",
     "enhanced_repository": "enhansome/enhansome-kicad",
