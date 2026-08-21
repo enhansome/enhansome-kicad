@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-05T19:09:04Z",
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2009
+                    "stars": 2010
                   }
                 },
                 {
@@ -71,7 +71,7 @@
                     "last_commit": "2026-07-30T10:14:35Z",
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2038
+                    "stars": 2042
                   }
                 },
                 {
@@ -116,7 +116,7 @@
                     "last_commit": "2025-05-01T16:56:45Z",
                     "owner": "matthewlai",
                     "repo": "JLCKicadTools",
-                    "stars": 356
+                    "stars": 355
                   }
                 },
                 {
@@ -211,6 +211,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "KiABOM",
+                  "description": "Simple BOM generation with online supplier data.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1067889432,
+                    "language": "Python",
+                    "last_commit": "2026-07-02T09:52:33Z",
+                    "owner": "Mage-Control-Systems-Ltd",
+                    "repo": "KiABOM",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "KiCad Better BOM",
                   "description": "Yet another pretty BOM generator for KiCad.",
                   "children": [],
@@ -222,21 +237,6 @@
                     "owner": "AlexanderNickolsky",
                     "repo": "KiCad-Better-BOM",
                     "stars": 6
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "KiABOM",
-                  "description": "Simple BOM generation with online supplier data.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1067889432,
-                    "language": "Python",
-                    "last_commit": "2026-07-02T09:52:33Z",
-                    "owner": "Mage-Control-Systems-Ltd",
-                    "repo": "KiABOM",
-                    "stars": 5
                   }
                 },
                 {
@@ -270,10 +270,10 @@
                     "archived": false,
                     "id": 21307203,
                     "language": "Java",
-                    "last_commit": "2026-08-20T06:58:52Z",
+                    "last_commit": "2026-08-21T09:41:10Z",
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1883
+                    "stars": 1886
                   }
                 },
                 {
@@ -285,7 +285,7 @@
                     "archived": false,
                     "id": 65847289,
                     "language": "Python",
-                    "last_commit": "2026-08-15T14:26:47Z",
+                    "last_commit": "2026-08-20T13:25:06Z",
                     "owner": "devbisme",
                     "repo": "skidl",
                     "stars": 1626
@@ -303,7 +303,7 @@
                     "last_commit": "2026-08-07T12:01:22Z",
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1410
+                    "stars": 1411
                   }
                 },
                 {
@@ -348,7 +348,7 @@
                     "last_commit": "2019-10-24T23:41:12Z",
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 759
+                    "stars": 758
                   }
                 },
                 {
@@ -360,10 +360,10 @@
                     "archived": false,
                     "id": 246344800,
                     "language": "Python",
-                    "last_commit": "2026-08-14T13:52:17Z",
+                    "last_commit": "2026-08-20T16:32:52Z",
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 731
+                    "stars": 732
                   }
                 },
                 {
@@ -580,7 +580,7 @@
                     "last_commit": "2026-04-28T17:37:55Z",
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1123
+                    "stars": 1124
                   }
                 },
                 {
@@ -592,10 +592,10 @@
                     "archived": false,
                     "id": 1176559390,
                     "language": "Python",
-                    "last_commit": "2026-08-18T00:39:12Z",
+                    "last_commit": "2026-08-20T23:05:13Z",
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 986
+                    "stars": 992
                   }
                 },
                 {
@@ -610,7 +610,7 @@
                     "last_commit": "2026-06-22T08:41:28Z",
                     "owner": "leoheck",
                     "repo": "kiri",
-                    "stars": 700
+                    "stars": 699
                   }
                 },
                 {
@@ -670,7 +670,7 @@
                     "last_commit": "2026-07-28T15:57:28Z",
                     "owner": "jnavila",
                     "repo": "plotkicadsch",
-                    "stars": 234
+                    "stars": 233
                   }
                 },
                 {
@@ -700,7 +700,22 @@
                     "last_commit": "2026-08-20T08:15:06Z",
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 22
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "akcli",
+                  "description": "AI-native schematic design CLI for KiCad — author and edit from JSON op-lists behind a net-diff safety gate, run ERC / design-review / BOM checks, simulate on ngspice, and source JLCPCB parts. Zero dependencies (pure-stdlib Python).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1281398269,
+                    "language": "Python",
+                    "last_commit": "2026-08-12T12:18:51Z",
+                    "owner": "tipoLi5890",
+                    "repo": "akcli",
+                    "stars": 7
                   }
                 }
               ],
@@ -764,7 +779,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4931
+                "stars": 4932
               }
             },
             {
@@ -792,10 +807,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:39:46.628Z",
+    "last_updated": "2026-08-21T09:42:00.163Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_id": 358150819,
-    "original_repository_sha": "a2fe8322415ee46b351a4001f93191312c3a8f11",
+    "original_repository_sha": "04223caebeae4b7d798d47e7af8810d8d4b3c403",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
