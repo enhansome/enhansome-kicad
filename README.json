@@ -273,7 +273,7 @@
                     "last_commit": "2026-08-22T07:10:55Z",
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1889
+                    "stars": 1891
                   }
                 },
                 {
@@ -288,7 +288,7 @@
                     "last_commit": "2026-08-20T13:25:06Z",
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1628
+                    "stars": 1629
                   }
                 },
                 {
@@ -303,7 +303,7 @@
                     "last_commit": "2026-08-07T12:01:22Z",
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1411
+                    "stars": 1412
                   }
                 },
                 {
@@ -348,7 +348,7 @@
                     "last_commit": "2019-10-24T23:41:12Z",
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 758
+                    "stars": 759
                   }
                 },
                 {
@@ -595,7 +595,7 @@
                     "last_commit": "2026-08-20T23:05:13Z",
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 997
+                    "stars": 1001
                   }
                 },
                 {
@@ -655,7 +655,7 @@
                     "last_commit": "2026-04-23T09:34:36Z",
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 254
+                    "stars": 255
                   }
                 },
                 {
@@ -779,7 +779,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4933
+                "stars": 4935
               }
             },
             {
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:31:59.215Z",
+    "last_updated": "2026-08-23T09:32:46.902Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_id": 358150819,
     "original_repository_sha": "04223caebeae4b7d798d47e7af8810d8d4b3c403",
