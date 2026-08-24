@@ -270,7 +270,7 @@
                     "archived": false,
                     "id": 21307203,
                     "language": "Java",
-                    "last_commit": "2026-08-22T07:10:55Z",
+                    "last_commit": "2026-08-24T11:23:46Z",
                     "owner": "freerouting",
                     "repo": "freerouting",
                     "stars": 1894
@@ -288,7 +288,7 @@
                     "last_commit": "2026-08-20T13:25:06Z",
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1630
+                    "stars": 1631
                   }
                 },
                 {
@@ -570,6 +570,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "InteractiveHtmlBom",
+                  "description": "Generate convenient BOM listing with ability to visually correlate and easily search for components and their placements on the pcb",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142263436,
+                    "language": "Python",
+                    "last_commit": "2026-07-12T01:14:05Z",
+                    "owner": "openscopeproject",
+                    "repo": "InteractiveHtmlBom",
+                    "stars": 4528
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Presentations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "kicanvas",
                   "description": "KiCanvas is an interactive, browser-based viewer for KiCAD schematics and boards",
                   "children": [],
@@ -595,7 +617,7 @@
                     "last_commit": "2026-08-20T23:05:13Z",
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1006
+                    "stars": 1008
                   }
                 },
                 {
@@ -759,11 +781,77 @@
               "description": null,
               "node_type": "group",
               "title": "Converters"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "KiCad Color Schemes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 139262689,
+                    "language": "Python",
+                    "last_commit": "2024-04-16T00:55:50Z",
+                    "owner": "pointhi",
+                    "repo": "kicad-color-schemes",
+                    "stars": 713
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GUI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "kicad-wakatime",
+                  "description": "WakaTime plugin for KiCAD 8.99",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 888638013,
+                    "language": "Rust",
+                    "last_commit": "2026-05-28T17:26:57Z",
+                    "owner": "hackclub",
+                    "repo": "kicad-wakatime",
+                    "stars": 45
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arduino Kicad Library",
+              "description": "KiCad Symbol & Footprint Library for Arduino Modules",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89703898,
+                "language": null,
+                "last_commit": "2025-06-07T10:27:24Z",
+                "owner": "Alarm-Siren",
+                "repo": "arduino-kicad-library",
+                "stars": 444
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Symbols"
         },
         {
           "children": [
@@ -801,13 +889,57 @@
           "description": null,
           "node_type": "group",
           "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kandle",
+              "description": "CLI to automatically import 3rd-party components (symbols, footprints and 3D-models) into KiCad.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586160096,
+                "language": "C++",
+                "last_commit": "2024-04-29T02:19:08Z",
+                "owner": "HarveyBates",
+                "repo": "kandle",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3rd-Party Component Integration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KiCadVerilog",
+              "description": "Generate Verilog code from a KiCad netlist.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592956998,
+                "language": "Python",
+                "last_commit": "2024-11-02T13:05:29Z",
+                "owner": "galacticstudios",
+                "repo": "KiCadVerilog",
+                "stars": 69
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Verilog / VHDL Tools"
         }
       ],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:53:46.118Z",
+    "last_updated": "2026-08-24T14:23:13.433Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_id": 358150819,
     "original_repository_sha": "04223caebeae4b7d798d47e7af8810d8d4b3c403",
