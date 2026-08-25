@@ -71,7 +71,7 @@
                     "last_commit": "2026-07-30T10:14:35Z",
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2043
+                    "stars": 2044
                   }
                 },
                 {
@@ -273,7 +273,7 @@
                     "last_commit": "2026-08-24T11:23:46Z",
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1894
+                    "stars": 1895
                   }
                 },
                 {
@@ -303,7 +303,7 @@
                     "last_commit": "2026-08-07T12:01:22Z",
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1413
+                    "stars": 1414
                   }
                 },
                 {
@@ -348,7 +348,7 @@
                     "last_commit": "2019-10-24T23:41:12Z",
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 759
+                    "stars": 760
                   }
                 },
                 {
@@ -360,7 +360,7 @@
                     "archived": false,
                     "id": 246344800,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:08:06Z",
+                    "last_commit": "2026-08-24T18:04:55Z",
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
                     "stars": 732
@@ -580,7 +580,7 @@
                     "last_commit": "2026-07-12T01:14:05Z",
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4528
+                    "stars": 4530
                   }
                 }
               ],
@@ -617,7 +617,7 @@
                     "last_commit": "2026-08-20T23:05:13Z",
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1008
+                    "stars": 1009
                   }
                 },
                 {
@@ -662,7 +662,7 @@
                     "last_commit": "2024-06-26T14:11:50Z",
                     "owner": "Gasman2014",
                     "repo": "KiCad-Diff",
-                    "stars": 292
+                    "stars": 293
                   }
                 },
                 {
@@ -926,7 +926,7 @@
                 "last_commit": "2024-11-02T13:05:29Z",
                 "owner": "galacticstudios",
                 "repo": "KiCadVerilog",
-                "stars": 69
+                "stars": 70
               }
             }
           ],
@@ -939,7 +939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:13.433Z",
+    "last_updated": "2026-08-25T06:12:21.275Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_id": 358150819,
     "original_repository_sha": "04223caebeae4b7d798d47e7af8810d8d4b3c403",
