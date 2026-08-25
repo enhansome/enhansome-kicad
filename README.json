@@ -273,7 +273,7 @@
                     "last_commit": "2026-08-24T11:23:46Z",
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1895
+                    "stars": 1897
                   }
                 },
                 {
@@ -617,7 +617,7 @@
                     "last_commit": "2026-08-20T23:05:13Z",
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1009
+                    "stars": 1010
                   }
                 },
                 {
@@ -738,6 +738,21 @@
                     "owner": "tipoLi5890",
                     "repo": "akcli",
                     "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BoardRepo",
+                  "description": "Hosted project library and read-only review tools for KiCad schematics, BOMs, source files, DRC/ERC results, and fabrication constraints through MCP.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1345514814,
+                    "language": null,
+                    "last_commit": "2026-08-25T05:42:00Z",
+                    "owner": "flintt-dev",
+                    "repo": "boardrepo-plugin",
+                    "stars": 0
                   }
                 }
               ],
@@ -939,10 +954,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:21.275Z",
+    "last_updated": "2026-08-25T09:40:50.260Z",
     "original_repository": "joanbono/awesome-kicad",
     "original_repository_id": 358150819,
-    "original_repository_sha": "04223caebeae4b7d798d47e7af8810d8d4b3c403",
+    "original_repository_sha": "95978ea70a3809c792c53d483e4c6b33794fa1c1",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
