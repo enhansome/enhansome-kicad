@@ -270,7 +270,7 @@
                     "archived": false,
                     "id": 21307203,
                     "language": "Java",
-                    "last_commit": "2026-08-27T11:38:15Z",
+                    "last_commit": "2026-08-27T16:54:09Z",
                     "owner": "freerouting",
                     "repo": "freerouting",
                     "stars": 1913
@@ -360,7 +360,7 @@
                     "archived": false,
                     "id": 246344800,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:57:59Z",
+                    "last_commit": "2026-08-27T13:03:09Z",
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
                     "stars": 734
@@ -617,7 +617,7 @@
                     "last_commit": "2026-08-20T23:05:13Z",
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1029
+                    "stars": 1031
                   }
                 },
                 {
@@ -722,7 +722,7 @@
                     "last_commit": "2026-08-20T08:15:06Z",
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 23
+                    "stars": 24
                   }
                 },
                 {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:28.236Z",
+    "last_updated": "2026-08-27T19:42:36.568Z",
     "original_repository_info": {
       "archived": false,
       "id": 358150819,
