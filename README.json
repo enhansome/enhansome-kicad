@@ -19,8 +19,9 @@
                     "last_commit": "2026-08-05T19:09:04Z",
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2012
-                  }
+                    "stars": 2013
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "MitjaNemec",
                     "repo": "ReplicateLayout",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "msvisser",
                     "repo": "panelize-plugin",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -72,7 +75,8 @@
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
                     "stars": 2044
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -86,8 +90,9 @@
                     "last_commit": "2026-07-08T14:46:35Z",
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 622
-                  }
+                    "stars": 623
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "SchrodingersGat",
                     "repo": "KiBoM",
                     "stars": 373
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "matthewlai",
                     "repo": "JLCKicadTools",
                     "stars": 355
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "wokwi",
                     "repo": "kicad-jlcpcb-bom-plugin",
                     "stars": 204
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "g200kg",
                     "repo": "kicad-gerberzipper",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -162,7 +171,8 @@
                     "owner": "asukiaaa",
                     "repo": "gerber_to_order",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -177,7 +187,8 @@
                     "owner": "gregdavill",
                     "repo": "KiZip",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +203,8 @@
                     "owner": "imrehg",
                     "repo": "kicad-bom-seeedstudio",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -207,7 +219,8 @@
                     "owner": "mrussell42",
                     "repo": "copper_thief",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -237,7 +251,8 @@
                     "owner": "AlexanderNickolsky",
                     "repo": "KiCad-Better-BOM",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -252,7 +267,8 @@
                     "owner": "AlexSartori",
                     "repo": "kicad-bom2md",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -270,11 +286,12 @@
                     "archived": false,
                     "id": 21307203,
                     "language": "Java",
-                    "last_commit": "2026-08-27T16:54:09Z",
+                    "last_commit": "2026-08-28T20:41:20Z",
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1913
-                  }
+                    "stars": 1917
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -288,8 +305,9 @@
                     "last_commit": "2026-08-20T13:25:06Z",
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1637
-                  }
+                    "stars": 1638
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -304,7 +322,8 @@
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
                     "stars": 1414
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -319,7 +338,8 @@
                     "owner": "badgeek",
                     "repo": "svg2shenzhen",
                     "stars": 872
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -334,7 +354,8 @@
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
                     "stars": 825
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -348,8 +369,9 @@
                     "last_commit": "2019-10-24T23:41:12Z",
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 760
-                  }
+                    "stars": 761
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -360,11 +382,12 @@
                     "archived": false,
                     "id": 246344800,
                     "language": "Python",
-                    "last_commit": "2026-08-27T13:03:09Z",
+                    "last_commit": "2026-08-28T16:11:07Z",
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
                     "stars": 734
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -379,7 +402,8 @@
                     "owner": "Robotips",
                     "repo": "uConfig",
                     "stars": 585
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -394,7 +418,8 @@
                     "owner": "gregdavill",
                     "repo": "KiBuzzard",
                     "stars": 468
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -409,7 +434,8 @@
                     "owner": "mtl",
                     "repo": "svg2mod",
                     "stars": 259
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -424,7 +450,8 @@
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
                     "stars": 251
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -439,7 +466,8 @@
                     "owner": "wntrblm",
                     "repo": "Gingerbread",
                     "stars": 206
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -454,7 +482,8 @@
                     "owner": "JarrettR",
                     "repo": "Stretch",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -469,7 +498,8 @@
                     "owner": "Shaurya-Sethi",
                     "repo": "circuitron",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -484,7 +514,8 @@
                     "owner": "mrcpuddington",
                     "repo": "kobeestudio",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -499,7 +530,8 @@
                     "owner": "ma-ha",
                     "repo": "kicad-laser-stencil-plugin",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -514,7 +546,8 @@
                     "owner": "NBalciunas",
                     "repo": "kicad-img2silk",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -529,7 +562,8 @@
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "NCCM",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -544,7 +578,8 @@
                     "owner": "stimulu",
                     "repo": "stimulu-kicad-plugins",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -559,7 +594,8 @@
                     "owner": "msolomentsev",
                     "repo": "rectangulator",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -580,8 +616,9 @@
                     "last_commit": "2026-07-12T01:14:05Z",
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4533
-                  }
+                    "stars": 4536
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -603,7 +640,8 @@
                     "owner": "theacodes",
                     "repo": "kicanvas",
                     "stars": 1127
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -617,8 +655,9 @@
                     "last_commit": "2026-08-20T23:05:13Z",
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1031
-                  }
+                    "stars": 1038
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -633,7 +672,8 @@
                     "owner": "leoheck",
                     "repo": "kiri",
                     "stars": 702
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -648,7 +688,8 @@
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
                     "stars": 683
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -663,7 +704,8 @@
                     "owner": "Gasman2014",
                     "repo": "KiCad-Diff",
                     "stars": 293
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -678,7 +720,8 @@
                     "owner": "antmicro",
                     "repo": "gerber2ems",
                     "stars": 255
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -693,7 +736,8 @@
                     "owner": "jnavila",
                     "repo": "plotkicadsch",
                     "stars": 233
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -708,7 +752,8 @@
                     "owner": "antmicro",
                     "repo": "gerber2blend",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -722,8 +767,9 @@
                     "last_commit": "2026-08-20T08:15:06Z",
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 24
-                  }
+                    "stars": 26
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -738,7 +784,8 @@
                     "owner": "tipoLi5890",
                     "repo": "akcli",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -753,7 +800,8 @@
                     "owner": "flintt-dev",
                     "repo": "boardrepo-plugin",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -775,7 +823,8 @@
                     "owner": "thesourcerer8",
                     "repo": "altium2kicad",
                     "stars": 949
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 },
                 {
                   "node_type": "item",
@@ -790,7 +839,8 @@
                     "owner": "lachlanA",
                     "repo": "eagle-to-kicad",
                     "stars": 427
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -811,8 +861,9 @@
                     "last_commit": "2024-04-16T00:55:50Z",
                     "owner": "pointhi",
                     "repo": "kicad-color-schemes",
-                    "stars": 713
-                  }
+                    "stars": 714
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -834,7 +885,8 @@
                     "owner": "hackclub",
                     "repo": "kicad-wakatime",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
                 }
               ],
               "description": null,
@@ -861,7 +913,8 @@
                 "owner": "Alarm-Siren",
                 "repo": "arduino-kicad-library",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T20:47:07.624Z"
             }
           ],
           "description": null,
@@ -882,8 +935,9 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4941
-              }
+                "stars": 4942
+              },
+              "first_seen": "2026-08-28T20:47:07.624Z"
             },
             {
               "node_type": "item",
@@ -898,7 +952,8 @@
                 "owner": "MalphasWats",
                 "repo": "hawk",
                 "stars": 481
-              }
+              },
+              "first_seen": "2026-08-28T20:47:07.624Z"
             }
           ],
           "description": null,
@@ -920,7 +975,8 @@
                 "owner": "HarveyBates",
                 "repo": "kandle",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T20:47:07.624Z"
             }
           ],
           "description": null,
@@ -942,7 +998,8 @@
                 "owner": "galacticstudios",
                 "repo": "KiCadVerilog",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T20:47:07.624Z"
             }
           ],
           "description": null,
@@ -954,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:42:36.568Z",
+    "last_updated": "2026-08-28T20:47:07.624Z",
     "original_repository_info": {
       "archived": false,
       "id": 358150819,
@@ -962,7 +1019,7 @@
       "last_commit": "2026-08-25T06:56:01Z",
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 598
+      "stars": 599
     },
     "original_repository_sha": "95978ea70a3809c792c53d483e4c6b33794fa1c1",
     "enhanced_repository": "enhansome/enhansome-kicad",
