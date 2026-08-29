@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 623,
+                    "stars": 624,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -947,10 +947,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-12T01:14:05Z",
-                    "open_issues": 42,
+                    "open_issues": 43,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4536,
+                    "stars": 4537,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1011,7 +1011,7 @@
                     "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1040,
+                    "stars": 1041,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1134,7 +1134,7 @@
                     "open_issues": 6,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 255,
+                    "stars": 256,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1212,7 +1212,7 @@
                     "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:50.435Z",
+    "last_updated": "2026-08-29T14:17:12.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
