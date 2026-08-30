@@ -23,7 +23,7 @@
                     "open_issues": 98,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2013,
+                    "stars": 2015,
                     "topics": [
                       "automation",
                       "kicad",
@@ -104,7 +104,7 @@
                     "open_issues": 86,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2044,
+                    "stars": 2047,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 624,
+                    "stars": 625,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -494,7 +494,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1414,
+                    "stars": 1415,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -634,7 +634,7 @@
                     "open_issues": 29,
                     "owner": "Robotips",
                     "repo": "uConfig",
-                    "stars": 585,
+                    "stars": 586,
                     "topics": [
                       "extract-pinout",
                       "kicad",
@@ -950,7 +950,7 @@
                     "open_issues": 43,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4537,
+                    "stars": 4539,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1008,10 +1008,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-20T23:05:13Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1041,
+                    "stars": 1044,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1212,7 +1212,7 @@
                     "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 27,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:17:12.080Z",
+    "last_updated": "2026-08-30T14:20:58.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1594,7 +1594,7 @@
       "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 600,
+      "stars": 602,
       "topics": [
         "awesome",
         "awesome-list",
