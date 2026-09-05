@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T11:35:35Z",
+                    "last_commit": "2026-09-05T02:17:10Z",
                     "open_issues": 88,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2054,
+                    "stars": 2056,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -431,7 +431,7 @@
                     "open_issues": 33,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1934,
+                    "stars": 1942,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1643,
+                    "stars": 1644,
                     "topics": [
                       "eda",
                       "electronics",
@@ -599,7 +599,7 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-04T13:10:18Z",
+                    "last_commit": "2026-09-04T14:31:07Z",
                     "open_issues": 27,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
@@ -950,7 +950,7 @@
                     "open_issues": 43,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4550,
+                    "stars": 4553,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -984,7 +984,7 @@
                     "open_issues": 55,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1129,
+                    "stars": 1130,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1011,7 +1011,7 @@
                     "open_issues": 1,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1096,
+                    "stars": 1110,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1053,7 +1053,7 @@
                     "open_issues": 9,
                     "owner": "leoheck",
                     "repo": "kiri",
-                    "stars": 702,
+                    "stars": 703,
                     "topics": [
                       "diff",
                       "kicad",
@@ -1088,8 +1088,8 @@
                     "id": 103245084,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-14T16:58:54Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-09-04T15:39:28Z",
+                    "open_issues": 39,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
                     "stars": 686,
@@ -1484,7 +1484,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4949,
+                "stars": 4950,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:21:03.135Z",
+    "last_updated": "2026-09-05T12:30:21.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
