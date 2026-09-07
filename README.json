@@ -23,7 +23,7 @@
                     "open_issues": 98,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2016,
+                    "stars": 2018,
                     "topics": [
                       "automation",
                       "kicad",
@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T01:39:51Z",
-                    "open_issues": 90,
+                    "last_commit": "2026-09-06T20:02:22Z",
+                    "open_issues": 81,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2057,
+                    "stars": 2058,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-04T11:24:06Z",
-                    "open_issues": 34,
+                    "last_commit": "2026-09-07T13:40:48Z",
+                    "open_issues": 37,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1951,
+                    "stars": 1956,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1644,
+                    "stars": 1646,
                     "topics": [
                       "eda",
                       "electronics",
@@ -494,7 +494,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1425,
+                    "stars": 1427,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -603,7 +603,7 @@
                     "open_issues": 27,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 737,
+                    "stars": 738,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -782,7 +782,7 @@
                     "open_issues": 8,
                     "owner": "Shaurya-Sethi",
                     "repo": "circuitron",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": [
                       "agentic-ai",
                       "circuit-design",
@@ -947,10 +947,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-02T23:34:14Z",
-                    "open_issues": 43,
+                    "open_issues": 45,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4556,
+                    "stars": 4557,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -968,6 +968,48 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "kicad-happy",
+                  "description": "AI-powered design review for KiCad — schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing prep via Claude Code skills.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.",
+                    "homepage": "https://github.com/aklofas/kicad-happy",
+                    "id": 1176559390,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-01T18:10:53Z",
+                    "open_issues": 1,
+                    "owner": "aklofas",
+                    "repo": "kicad-happy",
+                    "stars": 1140,
+                    "topics": [
+                      "ai-skills",
+                      "bom-management",
+                      "claude-code",
+                      "codex",
+                      "design-review",
+                      "digikey",
+                      "eda",
+                      "electronics",
+                      "emc",
+                      "emc-compliance",
+                      "gerber",
+                      "hardware-design",
+                      "jlcpcb",
+                      "kicad",
+                      "kicad-pcb",
+                      "openai-codex",
+                      "pcb-design",
+                      "schematic-analysis",
+                      "signal-integrity",
+                      "spice-simulation"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
+                },
                 {
                   "node_type": "item",
                   "title": "kicanvas",
@@ -991,48 +1033,6 @@
                       "open-source-hardware",
                       "web",
                       "webgl"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "kicad-happy",
-                  "description": "AI-powered design review for KiCad — schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing prep via Claude Code skills.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.",
-                    "homepage": "https://github.com/aklofas/kicad-happy",
-                    "id": 1176559390,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-01T18:10:53Z",
-                    "open_issues": 1,
-                    "owner": "aklofas",
-                    "repo": "kicad-happy",
-                    "stars": 1124,
-                    "topics": [
-                      "ai-skills",
-                      "bom-management",
-                      "claude-code",
-                      "codex",
-                      "design-review",
-                      "digikey",
-                      "eda",
-                      "electronics",
-                      "emc",
-                      "emc-compliance",
-                      "gerber",
-                      "hardware-design",
-                      "jlcpcb",
-                      "kicad",
-                      "kicad-pcb",
-                      "openai-codex",
-                      "pcb-design",
-                      "schematic-analysis",
-                      "signal-integrity",
-                      "spice-simulation"
                     ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1134,7 +1134,7 @@
                     "open_issues": 6,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1212,7 +1212,7 @@
                     "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1370,7 +1370,7 @@
                     "open_issues": 16,
                     "owner": "pointhi",
                     "repo": "kicad-color-schemes",
-                    "stars": 714,
+                    "stars": 715,
                     "topics": [
                       "color-scheme",
                       "colorscheme",
@@ -1484,7 +1484,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4951,
+                "stars": 4952,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:45:22.353Z",
+    "last_updated": "2026-09-07T14:56:35.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
