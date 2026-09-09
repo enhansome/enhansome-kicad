@@ -23,7 +23,7 @@
                     "open_issues": 98,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2020,
+                    "stars": 2022,
                     "topics": [
                       "automation",
                       "kicad",
@@ -100,8 +100,8 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T18:58:23Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-09-09T04:58:35Z",
+                    "open_issues": 69,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
                     "stars": 2060,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-08T11:24:17Z",
+                    "last_commit": "2026-09-09T13:06:49Z",
                     "open_issues": 40,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1960,
+                    "stars": 1963,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1647,
+                    "stars": 1649,
                     "topics": [
                       "eda",
                       "electronics",
@@ -634,7 +634,7 @@
                     "open_issues": 29,
                     "owner": "Robotips",
                     "repo": "uConfig",
-                    "stars": 586,
+                    "stars": 587,
                     "topics": [
                       "extract-pinout",
                       "kicad",
@@ -704,7 +704,7 @@
                     "open_issues": 6,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 253,
+                    "stars": 254,
                     "topics": [
                       "kicad",
                       "library",
@@ -946,11 +946,11 @@
                     "id": 142263436,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T23:34:14Z",
+                    "last_commit": "2026-09-09T06:16:11Z",
                     "open_issues": 43,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4559,
+                    "stars": 4562,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -981,10 +981,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-01T18:10:53Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1152,
+                    "stars": 1166,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1177,6 +1177,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "RFsim",
+                  "description": "KiCad 10 plugin for simulating S-parameters, E/H fields and far field of an RF structure directly in the PCB editor with the openEMS FDTD solver.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad 10 plugin that simulates the S-parameters of an RF structure directly in the PCB editor, with the openEMS FDTD solver.",
+                    "homepage": null,
+                    "id": 1293280952,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-02T07:28:25Z",
+                    "open_issues": 2,
+                    "owner": "NBalciunas",
+                    "repo": "kicad-rfsim",
+                    "stars": 82,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "gerber2blend",
                   "description": "open-source utility to generate 3D models of Printed Circuit Boards (PCBs) in Blender ( format)",
                   "children": [],
@@ -1191,27 +1212,6 @@
                     "open_issues": 0,
                     "owner": "antmicro",
                     "repo": "gerber2blend",
-                    "stars": 35,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "RFsim",
-                  "description": "KiCad 10 plugin for simulating S-parameters, E/H fields and far field of an RF structure directly in the PCB editor with the openEMS FDTD solver.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "KiCad 10 plugin that simulates the S-parameters of an RF structure directly in the PCB editor, with the openEMS FDTD solver.",
-                    "homepage": null,
-                    "id": 1293280952,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-02T07:28:25Z",
-                    "open_issues": 0,
-                    "owner": "NBalciunas",
-                    "repo": "kicad-rfsim",
                     "stars": 35,
                     "topics": []
                   },
@@ -1311,7 +1311,7 @@
                     "open_issues": 77,
                     "owner": "thesourcerer8",
                     "repo": "altium2kicad",
-                    "stars": 950,
+                    "stars": 951,
                     "topics": [
                       "altium",
                       "conversion",
@@ -1403,7 +1403,7 @@
                     "open_issues": 11,
                     "owner": "hackclub",
                     "repo": "kicad-wakatime",
-                    "stars": 46,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:26:09.876Z",
+    "last_updated": "2026-09-09T13:37:05.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1594,7 +1594,7 @@
       "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 602,
+      "stars": 603,
       "topics": [
         "awesome",
         "awesome-list",
