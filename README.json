@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T04:58:35Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-09-11T01:27:01Z",
+                    "open_issues": 72,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2062,
+                    "stars": 2063,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-10T12:47:59Z",
+                    "last_commit": "2026-09-11T12:12:03Z",
                     "open_issues": 41,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1966,
+                    "stars": 1973,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1651,
+                    "stars": 1654,
                     "topics": [
                       "eda",
                       "electronics",
@@ -599,8 +599,8 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-07T16:58:09Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-09-11T12:25:54Z",
+                    "open_issues": 26,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
                     "stars": 739,
@@ -946,8 +946,8 @@
                     "id": 142263436,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T10:08:11Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-09-10T22:42:43Z",
+                    "open_issues": 44,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
                     "stars": 4563,
@@ -984,7 +984,7 @@
                     "open_issues": 2,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1172,
+                    "stars": 1184,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1131,7 +1131,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-23T09:34:36Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
                     "stars": 261,
@@ -1191,7 +1191,7 @@
                     "open_issues": 2,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 90,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1484,7 +1484,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4953,
+                "stars": 4954,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:28:22.714Z",
+    "last_updated": "2026-09-11T13:26:10.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1590,7 +1590,7 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-08-25T06:56:01Z",
+      "last_commit": "2026-09-11T08:55:39Z",
       "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
