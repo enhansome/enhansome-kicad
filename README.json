@@ -100,8 +100,8 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T20:53:24Z",
-                    "open_issues": 67,
+                    "last_commit": "2026-09-15T03:03:45Z",
+                    "open_issues": 68,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
                     "stars": 2066,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-14T14:47:01Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-09-15T14:11:04Z",
+                    "open_issues": 40,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1982,
+                    "stars": 1985,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1655,
+                    "stars": 1657,
                     "topics": [
                       "eda",
                       "electronics",
@@ -603,7 +603,7 @@
                     "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 739,
+                    "stars": 740,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -701,10 +701,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-01T19:09:59Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 255,
+                    "stars": 256,
                     "topics": [
                       "kicad",
                       "library",
@@ -887,6 +887,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "RFgen",
+                  "description": "KiCad plugin for quickly generating customizable RF footprints and antennas.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad plugin for quickly generating customizable RF footprints and antennas.",
+                    "homepage": null,
+                    "id": 1062140332,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-14T08:41:47Z",
+                    "open_issues": 0,
+                    "owner": "NBalciunas",
+                    "repo": "kicad-rfgen",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-15T14:15:16.030Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Stimulu KiCad Plugins",
                   "description": "Collection of KiCad plugins to reproduce or use Stimulu board files.",
                   "children": [],
@@ -950,7 +971,7 @@
                     "open_issues": 43,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4566,
+                    "stars": 4565,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -981,10 +1002,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-13T19:43:37Z",
-                    "open_issues": 0,
+                    "open_issues": 2,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1206,
+                    "stars": 1213,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1092,7 +1113,7 @@
                     "open_issues": 41,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 689,
+                    "stars": 690,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1233,7 +1254,7 @@
                     "open_issues": 1,
                     "owner": "tipoLi5890",
                     "repo": "akcli",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": [
                       "ai-agents",
                       "altium",
@@ -1311,7 +1332,7 @@
                     "open_issues": 77,
                     "owner": "thesourcerer8",
                     "repo": "altium2kicad",
-                    "stars": 951,
+                    "stars": 953,
                     "topics": [
                       "altium",
                       "conversion",
@@ -1342,7 +1363,7 @@
                     "open_issues": 8,
                     "owner": "lachlanA",
                     "repo": "eagle-to-kicad",
-                    "stars": 427,
+                    "stars": 429,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1484,7 +1505,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4956,
+                "stars": 4958,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1576,13 +1597,50 @@
           "description": null,
           "node_type": "group",
           "title": "Verilog / VHDL Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome KiCad Projects",
+              "description": "Curated list of open source hardware projects whose PCBs are designed in KiCad.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📔 📚 A curated list of Project Made with Kicad.",
+                "homepage": null,
+                "id": 1365813599,
+                "language": null,
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-09-13T08:27:09Z",
+                "open_issues": 0,
+                "owner": "way2pramil",
+                "repo": "awesome-kicad-projects",
+                "stars": 116,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "kicad",
+                  "kicad-breakout-board",
+                  "kicad-pcb",
+                  "kicad-project",
+                  "kicad-schematics",
+                  "made-with-kicad"
+                ]
+              },
+              "first_seen": "2026-09-15T14:15:16.030Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Project Collections"
         }
       ],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:48:02.771Z",
+    "last_updated": "2026-09-15T14:15:16.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1590,18 +1648,18 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-09-13T09:34:05Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-15T04:39:23Z",
+      "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 610,
+      "stars": 611,
       "topics": [
         "awesome",
         "awesome-list",
         "kicad"
       ]
     },
-    "original_repository_sha": "95978ea70a3809c792c53d483e4c6b33794fa1c1",
+    "original_repository_sha": "8ecb6dd85788c46ebf272ca81b7ebbcc544c41f6",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
