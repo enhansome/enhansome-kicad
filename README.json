@@ -49,7 +49,7 @@
                     "open_issues": 28,
                     "owner": "MitjaNemec",
                     "repo": "ReplicateLayout",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -104,7 +104,7 @@
                     "open_issues": 74,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2069,
+                    "stars": 2074,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -347,8 +347,8 @@
                     "id": 1067889432,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-17T10:35:56Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-09-17T20:30:47Z",
+                    "open_issues": 4,
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
                     "stars": 7,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-17T13:35:29Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-09-18T13:28:59Z",
+                    "open_issues": 27,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 1991,
+                    "stars": 1997,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1660,
+                    "stars": 1662,
                     "topics": [
                       "eda",
                       "electronics",
@@ -579,7 +579,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 773,
+                    "stars": 774,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -603,7 +603,7 @@
                     "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 741,
+                    "stars": 742,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -971,7 +971,7 @@
                     "open_issues": 43,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4568,
+                    "stars": 4569,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1005,7 +1005,7 @@
                     "open_issues": 2,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1245,
+                    "stars": 1252,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 56,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1135,
+                    "stars": 1137,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1155,7 +1155,7 @@
                     "open_issues": 7,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 261,
+                    "stars": 259,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1505,7 +1505,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4960,
+                "stars": 4962,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 139,
+                "stars": 154,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:12:55.479Z",
+    "last_updated": "2026-09-18T13:30:53.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1652,7 +1652,7 @@
       "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 612,
+      "stars": 614,
       "topics": [
         "awesome",
         "awesome-list",
