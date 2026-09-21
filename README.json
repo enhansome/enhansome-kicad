@@ -23,7 +23,7 @@
                     "open_issues": 98,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2027,
+                    "stars": 2029,
                     "topics": [
                       "automation",
                       "kicad",
@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T02:19:31Z",
-                    "open_issues": 74,
+                    "last_commit": "2026-09-21T01:57:29Z",
+                    "open_issues": 73,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2075,
+                    "stars": 2077,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-19T09:47:05Z",
+                    "last_commit": "2026-09-21T11:00:48Z",
                     "open_issues": 23,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2003,
+                    "stars": 2009,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1663,
+                    "stars": 1664,
                     "topics": [
                       "eda",
                       "electronics",
@@ -549,7 +549,7 @@
                     "open_issues": 38,
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
-                    "stars": 828,
+                    "stars": 829,
                     "topics": [
                       "fence-generator",
                       "kicad",
@@ -782,7 +782,7 @@
                     "open_issues": 8,
                     "owner": "Shaurya-Sethi",
                     "repo": "circuitron",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": [
                       "agentic-ai",
                       "circuit-design",
@@ -1005,7 +1005,7 @@
                     "open_issues": 2,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1268,
+                    "stars": 1274,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1110,7 +1110,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-09-04T15:39:28Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
                     "stars": 690,
@@ -1155,7 +1155,7 @@
                     "open_issues": 7,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 260,
+                    "stars": 261,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1208,11 +1208,11 @@
                     "id": 1293280952,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T07:23:25Z",
+                    "last_commit": "2026-09-21T06:46:12Z",
                     "open_issues": 2,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 96,
+                    "stars": 98,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 165,
+                "stars": 173,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:31:19.180Z",
+    "last_updated": "2026-09-21T15:47:46.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
