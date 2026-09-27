@@ -23,7 +23,7 @@
                     "open_issues": 98,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2033,
+                    "stars": 2034,
                     "topics": [
                       "automation",
                       "kicad",
@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T15:17:51Z",
+                    "last_commit": "2026-09-27T11:48:08Z",
                     "open_issues": 54,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2082,
+                    "stars": 2084,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -431,7 +431,7 @@
                     "open_issues": 26,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2030,
+                    "stars": 2034,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1670,
+                    "stars": 1673,
                     "topics": [
                       "eda",
                       "electronics",
@@ -579,7 +579,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 776,
+                    "stars": 777,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -704,7 +704,7 @@
                     "open_issues": 7,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": [
                       "kicad",
                       "library",
@@ -968,10 +968,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-10T22:42:43Z",
-                    "open_issues": 43,
+                    "open_issues": 45,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4578,
+                    "stars": 4580,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1005,7 +1005,7 @@
                     "open_issues": 2,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1293,
+                    "stars": 1296,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 56,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1140,
+                    "stars": 1142,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1113,7 +1113,7 @@
                     "open_issues": 42,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 690,
+                    "stars": 689,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1505,7 +1505,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4964,
+                "stars": 4966,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:41:16.473Z",
+    "last_updated": "2026-09-27T14:37:41.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
