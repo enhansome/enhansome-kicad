@@ -23,7 +23,7 @@
                     "open_issues": 98,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2034,
+                    "stars": 2035,
                     "topics": [
                       "automation",
                       "kicad",
@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-27T11:48:08Z",
-                    "open_issues": 54,
+                    "last_commit": "2026-09-28T11:17:07Z",
+                    "open_issues": 51,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2084,
+                    "stars": 2085,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 626,
+                    "stars": 627,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-25T20:56:02Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-09-28T15:24:45Z",
+                    "open_issues": 25,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2034,
+                    "stars": 2038,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1673,
+                    "stars": 1674,
                     "topics": [
                       "eda",
                       "electronics",
@@ -599,11 +599,11 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-25T13:23:52Z",
+                    "last_commit": "2026-09-28T16:16:19Z",
                     "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 744,
+                    "stars": 745,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -683,7 +683,7 @@
                     "open_issues": 25,
                     "owner": "mtl",
                     "repo": "svg2mod",
-                    "stars": 259,
+                    "stars": 260,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -971,7 +971,7 @@
                     "open_issues": 45,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4580,
+                    "stars": 4581,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1002,10 +1002,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-13T19:43:37Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1296,
+                    "stars": 1307,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1113,7 +1113,7 @@
                     "open_issues": 42,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 689,
+                    "stars": 690,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1155,7 +1155,7 @@
                     "open_issues": 7,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1526,7 +1526,7 @@
                 "open_issues": 4,
                 "owner": "MalphasWats",
                 "repo": "hawk",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 184,
+                "stars": 186,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:37:41.898Z",
+    "last_updated": "2026-09-28T17:30:36.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
