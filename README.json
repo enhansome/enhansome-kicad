@@ -104,7 +104,7 @@
                     "open_issues": 51,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2086,
+                    "stars": 2088,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -259,7 +259,7 @@
                     "open_issues": 7,
                     "owner": "asukiaaa",
                     "repo": "gerber_to_order",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": [
                       "gerber-files",
                       "kicad",
@@ -347,8 +347,8 @@
                     "id": 1067889432,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-23T14:30:29Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-09-30T15:28:46Z",
+                    "open_issues": 6,
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
                     "stars": 7,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T14:22:06Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-09-30T13:40:16Z",
+                    "open_issues": 25,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2041,
+                    "stars": 2045,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -599,7 +599,7 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-28T16:16:19Z",
+                    "last_commit": "2026-09-30T12:59:52Z",
                     "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
@@ -704,7 +704,7 @@
                     "open_issues": 7,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 259,
+                    "stars": 260,
                     "topics": [
                       "kicad",
                       "library",
@@ -971,7 +971,7 @@
                     "open_issues": 44,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4580,
+                    "stars": 4583,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1005,7 +1005,7 @@
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1310,
+                    "stars": 1319,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 57,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1143,
+                    "stars": 1144,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 187,
+                "stars": 191,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T15:34:29.721Z",
+    "last_updated": "2026-09-30T15:45:59.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1648,11 +1648,11 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-09-25T09:37:21Z",
+      "last_commit": "2026-09-30T10:29:57Z",
       "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 621,
+      "stars": 622,
       "topics": [
         "awesome",
         "awesome-list",
