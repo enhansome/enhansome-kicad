@@ -23,7 +23,7 @@
                     "open_issues": 98,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2035,
+                    "stars": 2036,
                     "topics": [
                       "automation",
                       "kicad",
@@ -224,6 +224,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "gerber_to_order",
+                  "description": "A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A KiCad plugin project to create gerber files and zip files.",
+                    "homepage": null,
+                    "id": 197941385,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-29T12:17:32Z",
+                    "open_issues": 7,
+                    "owner": "asukiaaa",
+                    "repo": "gerber_to_order",
+                    "stars": 63,
+                    "topics": [
+                      "gerber-files",
+                      "kicad",
+                      "kicad-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "kicad-gerberzipper",
                   "description": "KiCad Plot and Zip",
                   "children": [],
@@ -240,31 +265,6 @@
                     "repo": "kicad-gerberzipper",
                     "stars": 62,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "gerber_to_order",
-                  "description": "A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A KiCad plugin project to create gerber files and zip files.",
-                    "homepage": null,
-                    "id": 197941385,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-29T12:17:32Z",
-                    "open_issues": 7,
-                    "owner": "asukiaaa",
-                    "repo": "gerber_to_order",
-                    "stars": 62,
-                    "topics": [
-                      "gerber-files",
-                      "kicad",
-                      "kicad-plugin"
-                    ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
                 },
@@ -347,7 +347,7 @@
                     "id": 1067889432,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-30T15:28:46Z",
+                    "last_commit": "2026-10-01T09:14:25Z",
                     "open_issues": 6,
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-30T13:40:16Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-09-30T17:54:27Z",
+                    "open_issues": 24,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2045,
+                    "stars": 2050,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1675,
+                    "stars": 1679,
                     "topics": [
                       "eda",
                       "electronics",
@@ -494,7 +494,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1432,
+                    "stars": 1433,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -579,7 +579,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 777,
+                    "stars": 778,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -599,11 +599,11 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-30T12:59:52Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-09-30T15:55:37Z",
+                    "open_issues": 26,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 746,
+                    "stars": 748,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -968,10 +968,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-28T17:42:08Z",
-                    "open_issues": 44,
+                    "open_issues": 45,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4583,
+                    "stars": 4584,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1002,10 +1002,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-13T19:43:37Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1319,
+                    "stars": 1324,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 57,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1144,
+                    "stars": 1145,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1505,7 +1505,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4966,
+                "stars": 4968,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 191,
+                "stars": 195,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:45:59.450Z",
+    "last_updated": "2026-10-01T16:12:24.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1648,7 +1648,7 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-09-30T10:29:57Z",
+      "last_commit": "2026-10-01T10:08:58Z",
       "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
@@ -1659,7 +1659,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "8ecb6dd85788c46ebf272ca81b7ebbcc544c41f6",
+    "original_repository_sha": "b1f26f2763a89e9bd5114d071a0ae2dc2a859b58",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
