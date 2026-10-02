@@ -101,10 +101,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-28T11:17:07Z",
-                    "open_issues": 51,
+                    "open_issues": 52,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2088,
+                    "stars": 2089,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -347,8 +347,8 @@
                     "id": 1067889432,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T09:14:25Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-01T16:28:31Z",
+                    "open_issues": 7,
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
                     "stars": 7,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-30T17:54:27Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-10-02T15:32:28Z",
+                    "open_issues": 25,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2050,
+                    "stars": 2053,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1679,
+                    "stars": 1680,
                     "topics": [
                       "eda",
                       "electronics",
@@ -494,7 +494,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1433,
+                    "stars": 1434,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -599,8 +599,8 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-30T15:55:37Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-01T16:48:23Z",
+                    "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
                     "stars": 748,
@@ -662,8 +662,36 @@
                     "open_issues": 25,
                     "owner": "gregdavill",
                     "repo": "KiBuzzard",
-                    "stars": 473,
+                    "stars": 474,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Import-LIB-KiCad-Plugin",
+                  "description": "Import KiCad component libraries imported from Ultralibrarian and SnapEDA zipfiles.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Helps to import KiCad component libraries imported from ultralibrarian and snapeda zipfiles.",
+                    "homepage": null,
+                    "id": 615837310,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-05-01T19:09:59Z",
+                    "open_issues": 7,
+                    "owner": "Steffen-W",
+                    "repo": "Import-LIB-KiCad-Plugin",
+                    "stars": 261,
+                    "topics": [
+                      "kicad",
+                      "library",
+                      "plugin",
+                      "samacsys",
+                      "snapeda",
+                      "ultralibrarian"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
                 },
@@ -685,34 +713,6 @@
                     "repo": "svg2mod",
                     "stars": 260,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Import-LIB-KiCad-Plugin",
-                  "description": "Import KiCad component libraries imported from Ultralibrarian and SnapEDA zipfiles.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Helps to import KiCad component libraries imported from ultralibrarian and snapeda zipfiles.",
-                    "homepage": null,
-                    "id": 615837310,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-05-01T19:09:59Z",
-                    "open_issues": 7,
-                    "owner": "Steffen-W",
-                    "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 260,
-                    "topics": [
-                      "kicad",
-                      "library",
-                      "plugin",
-                      "samacsys",
-                      "snapeda",
-                      "ultralibrarian"
-                    ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
                 },
@@ -812,7 +812,7 @@
                     "open_issues": 10,
                     "owner": "mrcpuddington",
                     "repo": "kobeestudio",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -854,7 +854,7 @@
                     "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-img2silk",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -901,7 +901,7 @@
                     "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfgen",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-09-15T14:15:16.030Z"
@@ -967,11 +967,11 @@
                     "id": 142263436,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T17:42:08Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-10-02T00:57:01Z",
+                    "open_issues": 44,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4584,
+                    "stars": 4586,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1005,7 +1005,7 @@
                     "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1324,
+                    "stars": 1327,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 57,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1145,
+                    "stars": 1146,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1074,7 +1074,7 @@
                     "open_issues": 9,
                     "owner": "leoheck",
                     "repo": "kiri",
-                    "stars": 706,
+                    "stars": 707,
                     "topics": [
                       "diff",
                       "kicad",
@@ -1151,7 +1151,7 @@
                     "id": 719551090,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T07:20:18Z",
+                    "last_commit": "2026-10-02T14:48:23Z",
                     "open_issues": 7,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
@@ -1208,11 +1208,11 @@
                     "id": 1293280952,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T10:01:13Z",
+                    "last_commit": "2026-10-02T12:09:00Z",
                     "open_issues": 1,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1424,7 +1424,7 @@
                     "open_issues": 12,
                     "owner": "hackclub",
                     "repo": "kicad-wakatime",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:12:24.943Z",
+    "last_updated": "2026-10-02T15:36:35.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
