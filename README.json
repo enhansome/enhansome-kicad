@@ -101,7 +101,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-28T11:17:07Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
                     "stars": 2089,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T15:32:28Z",
+                    "last_commit": "2026-10-02T15:42:10Z",
                     "open_issues": 25,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2053,
+                    "stars": 2056,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1680,
+                    "stars": 1681,
                     "topics": [
                       "eda",
                       "electronics",
@@ -1074,7 +1074,7 @@
                     "open_issues": 9,
                     "owner": "leoheck",
                     "repo": "kiri",
-                    "stars": 707,
+                    "stars": 708,
                     "topics": [
                       "diff",
                       "kicad",
@@ -1378,7 +1378,7 @@
                 {
                   "node_type": "item",
                   "title": "KiCad Color Schemes",
-                  "description": null,
+                  "description": "pointhi/kicad-color-schemes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1588,7 +1588,7 @@
                 "open_issues": 3,
                 "owner": "galacticstudios",
                 "repo": "KiCadVerilog",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:36:35.380Z",
+    "last_updated": "2026-10-03T04:54:56.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
