@@ -427,7 +427,7 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T15:42:10Z",
+                    "last_commit": "2026-10-03T11:15:54Z",
                     "open_issues": 25,
                     "owner": "freerouting",
                     "repo": "freerouting",
@@ -603,7 +603,7 @@
                     "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 748,
+                    "stars": 749,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -1005,7 +1005,7 @@
                     "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1327,
+                    "stars": 1329,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1155,7 +1155,7 @@
                     "open_issues": 7,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 263,
+                    "stars": 264,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1457,7 +1457,7 @@
                 "open_issues": 13,
                 "owner": "Alarm-Siren",
                 "repo": "arduino-kicad-library",
-                "stars": 448,
+                "stars": 449,
                 "topics": [
                   "arduino",
                   "arduino-uno",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:56.715Z",
+    "last_updated": "2026-10-03T14:12:51.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
