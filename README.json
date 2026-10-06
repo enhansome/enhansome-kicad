@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-05T15:58:39Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-06T08:04:09Z",
+                    "open_issues": 24,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2061,
+                    "stars": 2064,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1682,
+                    "stars": 1683,
                     "topics": [
                       "eda",
                       "electronics",
@@ -549,7 +549,7 @@
                     "open_issues": 38,
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
-                    "stars": 831,
+                    "stars": 832,
                     "topics": [
                       "fence-generator",
                       "kicad",
@@ -967,8 +967,8 @@
                     "id": 142263436,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T00:57:01Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-10-06T03:07:05Z",
+                    "open_issues": 48,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
                     "stars": 4590,
@@ -1001,11 +1001,11 @@
                     "id": 1176559390,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T05:47:55Z",
+                    "last_commit": "2026-10-06T06:15:55Z",
                     "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1334,
+                    "stars": 1339,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1113,7 +1113,7 @@
                     "open_issues": 42,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 690,
+                    "stars": 691,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:11:17.812Z",
+    "last_updated": "2026-10-06T10:46:18.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
