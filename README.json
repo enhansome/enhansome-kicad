@@ -100,8 +100,8 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T08:23:45Z",
-                    "open_issues": 53,
+                    "last_commit": "2026-10-10T19:29:45Z",
+                    "open_issues": 46,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
                     "stars": 2104,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-10T07:38:55Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-10T18:03:52Z",
+                    "open_issues": 23,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2076,
+                    "stars": 2079,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1686,
+                    "stars": 1688,
                     "topics": [
                       "eda",
                       "electronics",
@@ -579,7 +579,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 778,
+                    "stars": 777,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -971,7 +971,7 @@
                     "open_issues": 44,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4595,
+                    "stars": 4598,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1005,7 +1005,7 @@
                     "open_issues": 6,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1362,
+                    "stars": 1371,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1391,7 +1391,7 @@
                     "open_issues": 16,
                     "owner": "pointhi",
                     "repo": "kicad-color-schemes",
-                    "stars": 718,
+                    "stars": 719,
                     "topics": [
                       "color-scheme",
                       "colorscheme",
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:08:45.433Z",
+    "last_updated": "2026-10-11T15:29:31.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
