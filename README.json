@@ -23,7 +23,7 @@
                     "open_issues": 97,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2042,
+                    "stars": 2043,
                     "topics": [
                       "automation",
                       "kicad",
@@ -104,7 +104,7 @@
                     "open_issues": 43,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2109,
+                    "stars": 2110,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -431,7 +431,7 @@
                     "open_issues": 43,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2105,
+                    "stars": 2109,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -599,7 +599,7 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-14T16:56:44Z",
+                    "last_commit": "2026-10-15T16:20:14Z",
                     "open_issues": 24,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
@@ -1005,7 +1005,7 @@
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1399,
+                    "stars": 1410,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 57,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1151,
+                    "stars": 1152,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1120,6 +1120,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "KiCAD-Prism",
+                  "description": "Self-hosted web platform for reviewing KiCad projects from Git. Browse schematics, PCBs, 3D boards and BOMs in the browser, compare commits, discuss changes, and govern component libraries.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Self-Hosted Web Application for displaying and interacting with KiCAD Projects",
+                    "homepage": null,
+                    "id": 1129265934,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-16T13:50:19Z",
+                    "open_issues": 22,
+                    "owner": "krishna-swaroop",
+                    "repo": "KiCAD-Prism",
+                    "stars": 297,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-16T13:51:38.454Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "KiCad-Diff",
                   "description": "Plugin to perform image diffs between pcbnew layout revisions",
                   "children": [],
@@ -1151,7 +1172,7 @@
                     "id": 719551090,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T13:29:25Z",
+                    "last_commit": "2026-10-16T09:39:57Z",
                     "open_issues": 11,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
@@ -1208,7 +1229,7 @@
                     "id": 1293280952,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T13:07:37Z",
+                    "last_commit": "2026-10-16T07:59:09Z",
                     "open_issues": 1,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
@@ -1332,7 +1353,7 @@
                     "open_issues": 77,
                     "owner": "thesourcerer8",
                     "repo": "altium2kicad",
-                    "stars": 955,
+                    "stars": 956,
                     "topics": [
                       "altium",
                       "conversion",
@@ -1457,7 +1478,7 @@
                 "open_issues": 13,
                 "owner": "Alarm-Siren",
                 "repo": "arduino-kicad-library",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "arduino",
                   "arduino-uno",
@@ -1616,7 +1637,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1640,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:03:34.392Z",
+    "last_updated": "2026-10-16T13:51:38.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1648,8 +1669,8 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-13T11:48:55Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-15T16:09:39Z",
+      "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
       "stars": 629,
@@ -1659,7 +1680,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "b1f26f2763a89e9bd5114d071a0ae2dc2a859b58",
+    "original_repository_sha": "f342332372f99b0f1e79df37e4658a676e9affd1",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
