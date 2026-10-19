@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T22:17:41Z",
-                    "open_issues": 97,
+                    "open_issues": 95,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
                     "stars": 2045,
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-14T17:25:16Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-19T16:07:20Z",
+                    "open_issues": 35,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2115,
+                    "stars": 2119,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1694,
+                    "stars": 1695,
                     "topics": [
                       "eda",
                       "electronics",
@@ -732,7 +732,7 @@
                     "open_issues": 17,
                     "owner": "wntrblm",
                     "repo": "Gingerbread",
-                    "stars": 208,
+                    "stars": 209,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -971,7 +971,7 @@
                     "open_issues": 44,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4607,
+                    "stars": 4606,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1002,10 +1002,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-15T00:10:28Z",
-                    "open_issues": 3,
+                    "open_issues": 11,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1443,
+                    "stars": 1451,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 58,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1152,
+                    "stars": 1153,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1113,7 +1113,7 @@
                     "open_issues": 43,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 694,
+                    "stars": 695,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1130,7 +1130,7 @@
                     "id": 1129265934,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T12:50:21Z",
+                    "last_commit": "2026-10-19T06:23:07Z",
                     "open_issues": 21,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
@@ -1176,7 +1176,7 @@
                     "open_issues": 11,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 269,
+                    "stars": 271,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1229,7 +1229,7 @@
                     "id": 1293280952,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T07:59:09Z",
+                    "last_commit": "2026-10-19T11:40:29Z",
                     "open_issues": 1,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
@@ -1637,7 +1637,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 201,
+                "stars": 203,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:06:38.597Z",
+    "last_updated": "2026-10-19T16:20:35.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
