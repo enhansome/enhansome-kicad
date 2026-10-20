@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T22:17:41Z",
-                    "open_issues": 95,
+                    "open_issues": 97,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
                     "stars": 2045,
@@ -104,7 +104,7 @@
                     "open_issues": 44,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2112,
+                    "stars": 2113,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -427,11 +427,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-19T16:07:20Z",
-                    "open_issues": 35,
+                    "last_commit": "2026-10-20T12:13:25Z",
+                    "open_issues": 27,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2119,
+                    "stars": 2123,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -494,7 +494,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1439,
+                    "stars": 1441,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -600,7 +600,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-15T16:20:14Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
                     "stars": 753,
@@ -679,7 +679,7 @@
                     "id": 615837310,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-12T19:11:11Z",
+                    "last_commit": "2026-10-20T13:25:36Z",
                     "open_issues": 0,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
@@ -850,7 +850,7 @@
                     "id": 1289807908,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-07-07T11:52:23Z",
+                    "last_commit": "2026-10-20T12:52:41Z",
                     "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-img2silk",
@@ -971,7 +971,7 @@
                     "open_issues": 44,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4606,
+                    "stars": 4609,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1005,7 +1005,7 @@
                     "open_issues": 11,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1451,
+                    "stars": 1461,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1047,7 +1047,7 @@
                     "open_issues": 58,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1153,
+                    "stars": 1155,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1113,7 +1113,7 @@
                     "open_issues": 43,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 695,
+                    "stars": 696,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1130,8 +1130,8 @@
                     "id": 1129265934,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T06:23:07Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-20T13:09:07Z",
+                    "open_issues": 23,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
                     "stars": 298,
@@ -1176,7 +1176,7 @@
                     "open_issues": 11,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1224,16 +1224,16 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "KiCad 10 plugin that simulates the S-parameters of an RF structure directly in the PCB editor, with the openEMS FDTD solver.",
+                    "description": "KiCad 10 plugin that simulates the S-parameters of an RF structure directly in the PCB editor, with the openEMS FDTD solver or the EMerge FEM solver.",
                     "homepage": null,
                     "id": 1293280952,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T11:40:29Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-20T08:51:33Z",
+                    "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 104,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1300,6 +1300,39 @@
                     ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ZiroEDA",
+                  "description": "KiCad 10 ported to the browser (TypeScript, GPL-3.0). Open, edit and share real schematic and PCB projects with nothing to install; any public GitHub KiCad repo opens at .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad 10 in the browser: open, edit and share real schematic and PCB projects with nothing to install. GPL-3.0, end-to-end encrypted cloud projects.",
+                    "homepage": "https://designer.ziroeda.com",
+                    "id": 1280911053,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-20T14:06:36Z",
+                    "open_issues": 19,
+                    "owner": "ZiroEDA",
+                    "repo": "ziro-designer",
+                    "stars": 10,
+                    "topics": [
+                      "browser",
+                      "eda",
+                      "electronics",
+                      "end-to-end-encryption",
+                      "kicad",
+                      "open-hardware",
+                      "pcb",
+                      "pcb-design",
+                      "schematic",
+                      "typescript",
+                      "webgl"
+                    ]
+                  },
+                  "first_seen": "2026-10-20T14:12:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -1449,6 +1482,35 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "autorouter-bench",
+                  "description": "Open benchmark of six autorouters, FreeRouting among them, on eight open-hardware KiCad boards, scored by kicad-cli ratsnest and DRC.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Measuring Koppar PCB autorouter against other solutions - benchmark on real open-hardware boards, scored by KiCad",
+                    "homepage": "https://koppar.ai/benchmarks",
+                    "id": 1416934115,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-19T12:10:17Z",
+                    "open_issues": 0,
+                    "owner": "Koppar-AI",
+                    "repo": "autorouter-bench",
+                    "stars": 1,
+                    "topics": [
+                      "autorouter",
+                      "benchmark",
+                      "eda",
+                      "kicad",
+                      "koppar",
+                      "pcb",
+                      "pcb-design"
+                    ]
+                  },
+                  "first_seen": "2026-10-20T14:12:47.839Z"
                 }
               ],
               "description": null,
@@ -1526,7 +1588,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4972,
+                "stars": 4973,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1661,7 +1723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:20:35.253Z",
+    "last_updated": "2026-10-20T14:12:47.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1669,8 +1731,8 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-15T16:09:39Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-20T09:25:52Z",
+      "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
       "stars": 630,
@@ -1680,7 +1742,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "f342332372f99b0f1e79df37e4658a676e9affd1",
+    "original_repository_sha": "585d358319ff642622ebe49846642b61d6a7f4a6",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
