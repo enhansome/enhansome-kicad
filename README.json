@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T22:17:41Z",
-                    "open_issues": 97,
+                    "open_issues": 99,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
                     "stars": 2046,
@@ -104,7 +104,7 @@
                     "open_issues": 49,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2115,
+                    "stars": 2116,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 627,
+                    "stars": 628,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -162,7 +162,7 @@
                     "open_issues": 31,
                     "owner": "SchrodingersGat",
                     "repo": "KiBoM",
-                    "stars": 373,
+                    "stars": 374,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -428,10 +428,10 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-20T12:13:25Z",
-                    "open_issues": 31,
+                    "open_issues": 39,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2125,
+                    "stars": 2128,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +467,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1699,
+                    "stars": 1701,
                     "topics": [
                       "eda",
                       "electronics",
@@ -549,7 +549,7 @@
                     "open_issues": 38,
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
-                    "stars": 834,
+                    "stars": 835,
                     "topics": [
                       "fence-generator",
                       "kicad",
@@ -683,7 +683,7 @@
                     "open_issues": 0,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 265,
+                    "stars": 266,
                     "topics": [
                       "kicad",
                       "library",
@@ -1027,11 +1027,11 @@
                     "id": 1176559390,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T00:10:28Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-23T06:41:20Z",
+                    "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1483,
+                    "stars": 1488,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1139,7 +1139,7 @@
                     "open_issues": 43,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 696,
+                    "stars": 698,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1156,11 +1156,11 @@
                     "id": 1129265934,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T13:04:41Z",
+                    "last_commit": "2026-10-23T13:47:41Z",
                     "open_issues": 21,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 298,
+                    "stars": 299,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1202,7 +1202,7 @@
                     "open_issues": 11,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 272,
+                    "stars": 273,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1256,10 +1256,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-20T08:51:33Z",
-                    "open_issues": 0,
+                    "open_issues": 2,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 125,
+                    "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1284,6 +1284,39 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ZiroEDA",
+                  "description": "KiCad 10 ported to the browser (TypeScript, GPL-3.0). Open, edit and share real schematic and PCB projects with nothing to install; any public GitHub KiCad repo opens at .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad 10 in the browser: open, edit and share real schematic and PCB projects with nothing to install. GPL-3.0, end-to-end encrypted cloud projects.",
+                    "homepage": "https://designer.ziroeda.com",
+                    "id": 1280911053,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-23T06:00:28Z",
+                    "open_issues": 19,
+                    "owner": "ZiroEDA",
+                    "repo": "ziro-designer",
+                    "stars": 32,
+                    "topics": [
+                      "browser",
+                      "eda",
+                      "electronics",
+                      "end-to-end-encryption",
+                      "kicad",
+                      "open-hardware",
+                      "pcb",
+                      "pcb-design",
+                      "schematic",
+                      "typescript",
+                      "webgl"
+                    ]
+                  },
+                  "first_seen": "2026-10-20T14:12:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -1326,39 +1359,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ZiroEDA",
-                  "description": "KiCad 10 ported to the browser (TypeScript, GPL-3.0). Open, edit and share real schematic and PCB projects with nothing to install; any public GitHub KiCad repo opens at .",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "KiCad 10 in the browser: open, edit and share real schematic and PCB projects with nothing to install. GPL-3.0, end-to-end encrypted cloud projects.",
-                    "homepage": "https://designer.ziroeda.com",
-                    "id": 1280911053,
-                    "language": "TypeScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-21T17:19:19Z",
-                    "open_issues": 19,
-                    "owner": "ZiroEDA",
-                    "repo": "ziro-designer",
-                    "stars": 10,
-                    "topics": [
-                      "browser",
-                      "eda",
-                      "electronics",
-                      "end-to-end-encryption",
-                      "kicad",
-                      "open-hardware",
-                      "pcb",
-                      "pcb-design",
-                      "schematic",
-                      "typescript",
-                      "webgl"
-                    ]
-                  },
-                  "first_seen": "2026-10-20T14:12:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -1777,7 +1777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:26:05.002Z",
+    "last_updated": "2026-10-23T14:08:48.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1786,10 +1786,10 @@
       "language": "Python",
       "license": "GPL-3.0",
       "last_commit": "2026-10-22T07:54:20Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 630,
+      "stars": 633,
       "topics": [
         "awesome",
         "awesome-list",
