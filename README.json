@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T22:17:41Z",
-                    "open_issues": 99,
+                    "open_issues": 100,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
                     "stars": 2046,
@@ -49,7 +49,7 @@
                     "open_issues": 28,
                     "owner": "MitjaNemec",
                     "repo": "ReplicateLayout",
-                    "stars": 136,
+                    "stars": 137,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -347,8 +347,8 @@
                     "id": 1067889432,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-21T09:42:47Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-23T20:31:00Z",
+                    "open_issues": 7,
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
                     "stars": 7,
@@ -407,6 +407,41 @@
                     ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wave Fixture AI",
+                  "description": "Automated wave soldering pallet and selective solder fixture CAM engine with 3D clearance preview, 73 DRC manufacturing rules, and direct CNC G-code toolpaths.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Gerber 进 · 治具工程图出 · 21 项制造业自动化：波峰焊治具 AI 设计助手，输出 DXF/STL/GLB 及 CNC G 代码，内建 26 项 DRC 门禁与自然语言参数调整",
+                    "homepage": "https://github.com/mo9652962-ai/wave-fixture-ai#-快速开始web-界面推荐",
+                    "id": 1336763131,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-23T16:59:03Z",
+                    "open_issues": 0,
+                    "owner": "mo9652962-ai",
+                    "repo": "wave-fixture-ai",
+                    "stars": 1,
+                    "topics": [
+                      "cad",
+                      "cnc",
+                      "dxf",
+                      "eda",
+                      "fixture-design",
+                      "gerber",
+                      "industrial-automation",
+                      "kicad",
+                      "manufacturing",
+                      "pcb",
+                      "python",
+                      "shapely",
+                      "wave-soldering"
+                    ]
+                  },
+                  "first_seen": "2026-10-24T13:11:59.812Z"
                 }
               ],
               "description": null,
@@ -428,10 +463,10 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-20T12:13:25Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2128,
+                    "stars": 2129,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -467,7 +502,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1701,
+                    "stars": 1702,
                     "topics": [
                       "eda",
                       "electronics",
@@ -494,7 +529,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1444,
+                    "stars": 1443,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -519,7 +554,7 @@
                     "open_issues": 50,
                     "owner": "badgeek",
                     "repo": "svg2shenzhen",
-                    "stars": 873,
+                    "stars": 872,
                     "topics": [
                       "art",
                       "badge",
@@ -549,7 +584,7 @@
                     "open_issues": 38,
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
-                    "stars": 835,
+                    "stars": 837,
                     "topics": [
                       "fence-generator",
                       "kicad",
@@ -579,7 +614,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 780,
+                    "stars": 781,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -634,7 +669,7 @@
                     "open_issues": 29,
                     "owner": "Robotips",
                     "repo": "uConfig",
-                    "stars": 587,
+                    "stars": 588,
                     "topics": [
                       "extract-pinout",
                       "kicad",
@@ -812,7 +847,7 @@
                     "open_issues": 10,
                     "owner": "mrcpuddington",
                     "repo": "kobeestudio",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -854,7 +889,7 @@
                     "open_issues": 0,
                     "owner": "NBalciunas",
                     "repo": "kicad-img2silk",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -973,6 +1008,42 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CircuitAgent",
+                  "description": "AI-driven hardware synthesis DSL and deterministic netlist compiler. Constrains LLMs to validated circuit blocks, emitting native KiCad 8/9/10 schematics (.kicad_sch), Specctra DSN, and live LCSC BOMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Prompt → Schematic → Layout → 3D Enclosure: AI Hardware Synthesis, CircuitBlocks DSL, and MCP Server for KiCad/JLCPCB manufacturing",
+                    "homepage": "https://github.com/mo9652962-ai/circuit-agent",
+                    "id": 1400212551,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-24T07:10:36Z",
+                    "open_issues": 0,
+                    "owner": "mo9652962-ai",
+                    "repo": "circuit-agent",
+                    "stars": 1,
+                    "topics": [
+                      "ai-agent",
+                      "automation",
+                      "eda",
+                      "electronics",
+                      "hardware",
+                      "hardware-compiler",
+                      "jlcpcb",
+                      "jlpcb",
+                      "kicad",
+                      "llm",
+                      "mcp",
+                      "pcb",
+                      "python",
+                      "schematic"
+                    ]
+                  },
+                  "first_seen": "2026-10-24T13:11:59.812Z"
                 }
               ],
               "description": null,
@@ -997,7 +1068,7 @@
                     "open_issues": 44,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4614,
+                    "stars": 4616,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1031,7 +1102,7 @@
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1488,
+                    "stars": 1494,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1156,7 +1227,7 @@
                     "id": 1129265934,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T13:47:41Z",
+                    "last_commit": "2026-10-23T14:26:57Z",
                     "open_issues": 21,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
@@ -1202,7 +1273,7 @@
                     "open_issues": 11,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1256,13 +1327,46 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-20T08:51:33Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
                     "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ZiroEDA",
+                  "description": "KiCad 10 ported to the browser (TypeScript, GPL-3.0). Open, edit and share real schematic and PCB projects with nothing to install; any public GitHub KiCad repo opens at .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad 10 in the browser: open, edit and share real schematic and PCB projects with nothing to install. GPL-3.0, end-to-end encrypted cloud projects.",
+                    "homepage": "https://designer.ziroeda.com",
+                    "id": 1280911053,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-24T12:54:59Z",
+                    "open_issues": 19,
+                    "owner": "ZiroEDA",
+                    "repo": "ziro-designer",
+                    "stars": 38,
+                    "topics": [
+                      "browser",
+                      "eda",
+                      "electronics",
+                      "end-to-end-encryption",
+                      "kicad",
+                      "open-hardware",
+                      "pcb",
+                      "pcb-design",
+                      "schematic",
+                      "typescript",
+                      "webgl"
+                    ]
+                  },
+                  "first_seen": "2026-10-20T14:12:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -1284,39 +1388,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ZiroEDA",
-                  "description": "KiCad 10 ported to the browser (TypeScript, GPL-3.0). Open, edit and share real schematic and PCB projects with nothing to install; any public GitHub KiCad repo opens at .",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "KiCad 10 in the browser: open, edit and share real schematic and PCB projects with nothing to install. GPL-3.0, end-to-end encrypted cloud projects.",
-                    "homepage": "https://designer.ziroeda.com",
-                    "id": 1280911053,
-                    "language": "TypeScript",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T06:00:28Z",
-                    "open_issues": 19,
-                    "owner": "ZiroEDA",
-                    "repo": "ziro-designer",
-                    "stars": 32,
-                    "topics": [
-                      "browser",
-                      "eda",
-                      "electronics",
-                      "end-to-end-encryption",
-                      "kicad",
-                      "open-hardware",
-                      "pcb",
-                      "pcb-design",
-                      "schematic",
-                      "typescript",
-                      "webgl"
-                    ]
-                  },
-                  "first_seen": "2026-10-20T14:12:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -1359,6 +1430,32 @@
                     ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "kisi",
+                  "description": "Quick signal and power integrity checks for KiCad boards in the browser or CLI: trace impedance, TDR, crosstalk, channels, IR drop, PDN impedance and temperature. Runs locally, no installation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad signal and power integrity tools, running locally in your browser or as CLI tool.",
+                    "homepage": "https://riehlies.github.io/kisi/kisi-examples.html",
+                    "id": 1424175640,
+                    "language": "Rust",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-24T12:52:46Z",
+                    "open_issues": 0,
+                    "owner": "riehlies",
+                    "repo": "kisi",
+                    "stars": 2,
+                    "topics": [
+                      "kicad",
+                      "pcb",
+                      "power-integrity",
+                      "signal-integrity"
+                    ]
+                  },
+                  "first_seen": "2026-10-24T13:11:59.812Z"
                 },
                 {
                   "node_type": "item",
@@ -1749,7 +1846,7 @@
                 "id": 1365813599,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-17T13:15:19Z",
+                "last_commit": "2026-10-23T18:43:31Z",
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
@@ -1777,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:08:48.209Z",
+    "last_updated": "2026-10-24T13:11:59.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1785,18 +1882,18 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-22T07:54:20Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-23T19:02:17Z",
+      "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 633,
+      "stars": 634,
       "topics": [
         "awesome",
         "awesome-list",
         "kicad"
       ]
     },
-    "original_repository_sha": "f7c32c322d18be70ea352802dc0c4e3cdae3f191",
+    "original_repository_sha": "ee5bc14bf6e4c924b62398e2d126e5f8d8dbadf1",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
