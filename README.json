@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 628,
+                    "stars": 627,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -420,7 +420,7 @@
                     "id": 1336763131,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T09:06:07Z",
+                    "last_commit": "2026-10-26T14:59:17Z",
                     "open_issues": 0,
                     "owner": "mo9652962-ai",
                     "repo": "wave-fixture-ai",
@@ -462,11 +462,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-24T22:15:51Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-10-25T22:10:32Z",
+                    "open_issues": 44,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2131,
+                    "stars": 2133,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -584,7 +584,7 @@
                     "open_issues": 38,
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
-                    "stars": 837,
+                    "stars": 838,
                     "topics": [
                       "fence-generator",
                       "kicad",
@@ -1021,8 +1021,8 @@
                     "id": 1400212551,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T09:59:11Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-26T11:24:36Z",
+                    "open_issues": 4,
                     "owner": "mo9652962-ai",
                     "repo": "circuit-agent",
                     "stars": 1,
@@ -1065,10 +1065,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-17T02:50:58Z",
-                    "open_issues": 44,
+                    "open_issues": 46,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4616,
+                    "stars": 4617,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1102,7 +1102,7 @@
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1501,
+                    "stars": 1508,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1171,7 +1171,7 @@
                     "open_issues": 9,
                     "owner": "leoheck",
                     "repo": "kiri",
-                    "stars": 713,
+                    "stars": 714,
                     "topics": [
                       "diff",
                       "kicad",
@@ -1227,11 +1227,11 @@
                     "id": 1129265934,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T13:26:59Z",
+                    "last_commit": "2026-10-26T15:56:37Z",
                     "open_issues": 16,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 299,
+                    "stars": 300,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1330,7 +1330,7 @@
                     "open_issues": 3,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 131,
+                    "stars": 133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1347,11 +1347,11 @@
                     "id": 1280911053,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-25T05:23:25Z",
+                    "last_commit": "2026-10-26T15:33:43Z",
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 42,
+                    "stars": 50,
                     "topics": [
                       "browser",
                       "eda",
@@ -1443,7 +1443,7 @@
                     "id": 1424175640,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-25T13:03:19Z",
+                    "last_commit": "2026-10-26T15:29:28Z",
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
@@ -1739,7 +1739,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4975,
+                "stars": 4976,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:38:10.068Z",
+    "last_updated": "2026-10-26T15:59:52.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1886,7 +1886,7 @@
       "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 635,
+      "stars": 639,
       "topics": [
         "awesome",
         "awesome-list",
