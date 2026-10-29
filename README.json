@@ -23,7 +23,7 @@
                     "open_issues": 101,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2049,
+                    "stars": 2051,
                     "topics": [
                       "automation",
                       "kicad",
@@ -70,7 +70,7 @@
                     "open_issues": 3,
                     "owner": "msvisser",
                     "repo": "panelize-plugin",
-                    "stars": 60,
+                    "stars": 59,
                     "topics": [
                       "kicad",
                       "kicad-plugin",
@@ -101,10 +101,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-28T09:05:35Z",
-                    "open_issues": 45,
+                    "open_issues": 47,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2118,
+                    "stars": 2119,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -224,31 +224,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "gerber_to_order",
-                  "description": "A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A KiCad plugin project to create gerber files and zip files.",
-                    "homepage": null,
-                    "id": 197941385,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-29T12:17:32Z",
-                    "open_issues": 7,
-                    "owner": "asukiaaa",
-                    "repo": "gerber_to_order",
-                    "stars": 63,
-                    "topics": [
-                      "gerber-files",
-                      "kicad",
-                      "kicad-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "kicad-gerberzipper",
                   "description": "KiCad Plot and Zip",
                   "children": [],
@@ -265,6 +240,31 @@
                     "repo": "kicad-gerberzipper",
                     "stars": 62,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "gerber_to_order",
+                  "description": "A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A KiCad plugin project to create gerber files and zip files.",
+                    "homepage": null,
+                    "id": 197941385,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-29T12:17:32Z",
+                    "open_issues": 7,
+                    "owner": "asukiaaa",
+                    "repo": "gerber_to_order",
+                    "stars": 62,
+                    "topics": [
+                      "gerber-files",
+                      "kicad",
+                      "kicad-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
                 },
@@ -305,7 +305,7 @@
                     "open_issues": 2,
                     "owner": "imrehg",
                     "repo": "kicad-bom-seeedstudio",
-                    "stars": 28,
+                    "stars": 27,
                     "topics": [
                       "kicad",
                       "kicad-plugin",
@@ -463,10 +463,10 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-27T17:21:23Z",
-                    "open_issues": 34,
+                    "open_issues": 36,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2144,
+                    "stars": 2150,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -502,7 +502,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1706,
+                    "stars": 1707,
                     "topics": [
                       "eda",
                       "electronics",
@@ -614,7 +614,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 783,
+                    "stars": 784,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -634,7 +634,7 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-22T10:43:35Z",
+                    "last_commit": "2026-10-29T13:08:05Z",
                     "open_issues": 25,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
@@ -718,7 +718,7 @@
                     "open_issues": 0,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 267,
+                    "stars": 268,
                     "topics": [
                       "kicad",
                       "library",
@@ -1065,10 +1065,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-17T02:50:58Z",
-                    "open_issues": 46,
+                    "open_issues": 47,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4623,
+                    "stars": 4625,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1098,11 +1098,11 @@
                     "id": 1176559390,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-27T20:59:22Z",
+                    "last_commit": "2026-10-29T15:53:53Z",
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1525,
+                    "stars": 1539,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1144,7 +1144,7 @@
                     "open_issues": 59,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1158,
+                    "stars": 1159,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1227,11 +1227,11 @@
                     "id": 1129265934,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T15:40:03Z",
+                    "last_commit": "2026-10-29T15:42:51Z",
                     "open_issues": 16,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 302,
+                    "stars": 303,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1330,7 +1330,7 @@
                     "open_issues": 3,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 133,
+                    "stars": 136,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1347,11 +1347,11 @@
                     "id": 1280911053,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-28T14:36:36Z",
+                    "last_commit": "2026-10-28T18:34:35Z",
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 52,
+                    "stars": 54,
                     "topics": [
                       "browser",
                       "eda",
@@ -1443,7 +1443,7 @@
                     "id": 1424175640,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-27T10:11:39Z",
+                    "last_commit": "2026-10-29T15:34:55Z",
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
@@ -1739,7 +1739,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4977,
+                "stars": 4978,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1850,7 +1850,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:50:07.707Z",
+    "last_updated": "2026-10-29T15:57:33.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1886,7 +1886,7 @@
       "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 642,
+      "stars": 641,
       "topics": [
         "awesome",
         "awesome-list",
