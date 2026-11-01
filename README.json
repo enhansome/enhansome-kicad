@@ -23,7 +23,7 @@
                     "open_issues": 102,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2054,
+                    "stars": 2057,
                     "topics": [
                       "automation",
                       "kicad",
@@ -100,8 +100,8 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T09:05:35Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-11-01T12:01:30Z",
+                    "open_issues": 46,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
                     "stars": 2121,
@@ -463,10 +463,10 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-31T11:59:11Z",
-                    "open_issues": 59,
+                    "open_issues": 64,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2159,
+                    "stars": 2164,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -502,7 +502,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1710,
+                    "stars": 1712,
                     "topics": [
                       "eda",
                       "electronics",
@@ -529,7 +529,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1444,
+                    "stars": 1447,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -1021,8 +1021,8 @@
                     "id": 1400212551,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T12:16:20Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-01T15:09:22Z",
+                    "open_issues": 3,
                     "owner": "mo9652962-ai",
                     "repo": "circuit-agent",
                     "stars": 1,
@@ -1099,10 +1099,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-31T07:45:23Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1557,
+                    "stars": 1566,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1144,7 +1144,7 @@
                     "open_issues": 59,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1160,
+                    "stars": 1162,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1171,7 +1171,7 @@
                     "open_issues": 9,
                     "owner": "leoheck",
                     "repo": "kiri",
-                    "stars": 715,
+                    "stars": 716,
                     "topics": [
                       "diff",
                       "kicad",
@@ -1210,7 +1210,7 @@
                     "open_issues": 43,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 700,
+                    "stars": 701,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1227,8 +1227,8 @@
                     "id": 1129265934,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T14:05:15Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-11-01T15:53:41Z",
+                    "open_issues": 17,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
                     "stars": 305,
@@ -1443,7 +1443,7 @@
                     "id": 1424175640,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T14:51:15Z",
+                    "last_commit": "2026-10-31T16:29:02Z",
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
@@ -1650,7 +1650,7 @@
                     "open_issues": 0,
                     "owner": "Koppar-AI",
                     "repo": "autorouter-bench",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": [
                       "autorouter",
                       "benchmark",
@@ -1739,7 +1739,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4980,
+                "stars": 4981,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1850,7 +1850,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:12:12.730Z",
+    "last_updated": "2026-11-01T15:54:14.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1886,7 +1886,7 @@
       "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 642,
+      "stars": 643,
       "topics": [
         "awesome",
         "awesome-list",
