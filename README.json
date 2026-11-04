@@ -23,7 +23,7 @@
                     "open_issues": 102,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2060,
+                    "stars": 2061,
                     "topics": [
                       "automation",
                       "kicad",
@@ -104,7 +104,7 @@
                     "open_issues": 46,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2125,
+                    "stars": 2127,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -462,11 +462,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-03T16:34:46Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-11-03T22:41:45Z",
+                    "open_issues": 29,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2174,
+                    "stars": 2177,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -502,7 +502,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1712,
+                    "stars": 1713,
                     "topics": [
                       "eda",
                       "electronics",
@@ -584,7 +584,7 @@
                     "open_issues": 38,
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
-                    "stars": 839,
+                    "stars": 840,
                     "topics": [
                       "fence-generator",
                       "kicad",
@@ -943,6 +943,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "typeCAD",
+                  "description": "Programmatically create hardware designs with TypeScript. Create/reuse/import version-controlled packages between projects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🤖programmatically 💥create 🛰️hardware",
+                    "homepage": null,
+                    "id": 1361604434,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-25T17:34:41Z",
+                    "open_issues": 1,
+                    "owner": "typecad",
+                    "repo": "pcb",
+                    "stars": 2,
+                    "topics": [
+                      "pcb",
+                      "pcb-design",
+                      "pcb-layout",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-10-22T14:26:05.002Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Stimulu KiCad Plugins",
                   "description": "Collection of KiCad plugins to reproduce or use Stimulu board files.",
                   "children": [],
@@ -961,32 +987,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "typeCAD",
-                  "description": "Programmatically create hardware designs with TypeScript. Create/reuse/import version-controlled packages between projects.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🤖programmatically 💥create 🛰️hardware",
-                    "homepage": null,
-                    "id": 1361604434,
-                    "language": "TypeScript",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T17:34:41Z",
-                    "open_issues": 1,
-                    "owner": "typecad",
-                    "repo": "pcb",
-                    "stars": 1,
-                    "topics": [
-                      "pcb",
-                      "pcb-design",
-                      "pcb-layout",
-                      "typescript"
-                    ]
-                  },
-                  "first_seen": "2026-10-22T14:26:05.002Z"
                 },
                 {
                   "node_type": "item",
@@ -1068,7 +1068,7 @@
                     "open_issues": 47,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4633,
+                    "stars": 4637,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1098,11 +1098,11 @@
                     "id": 1176559390,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T07:55:15Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-11-04T07:54:30Z",
+                    "open_issues": 6,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1578,
+                    "stars": 1584,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1144,7 +1144,7 @@
                     "open_issues": 59,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1162,
+                    "stars": 1163,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1210,7 +1210,7 @@
                     "open_issues": 43,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 702,
+                    "stars": 703,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1227,11 +1227,11 @@
                     "id": 1129265934,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-03T16:24:36Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-11-03T22:42:51Z",
+                    "open_issues": 14,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 305,
+                    "stars": 306,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1269,7 +1269,7 @@
                     "id": 719551090,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-03T14:55:47Z",
+                    "last_commit": "2026-11-04T10:27:14Z",
                     "open_issues": 11,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
@@ -1326,11 +1326,11 @@
                     "id": 1293280952,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T08:05:59Z",
+                    "last_commit": "2026-11-04T11:44:25Z",
                     "open_issues": 3,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 140,
+                    "stars": 141,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1347,11 +1347,11 @@
                     "id": 1280911053,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-02T12:26:32Z",
+                    "last_commit": "2026-11-04T16:51:10Z",
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": [
                       "browser",
                       "eda",
@@ -1443,11 +1443,11 @@
                     "id": 1424175640,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-03T16:54:06Z",
+                    "last_commit": "2026-11-04T09:29:48Z",
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
-                    "stars": 2,
+                    "stars": 5,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -1850,7 +1850,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:54:56.994Z",
+    "last_updated": "2026-11-04T16:58:01.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1882,18 +1882,18 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-31T10:24:18Z",
+      "last_commit": "2026-11-04T06:56:16Z",
       "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 647,
+      "stars": 648,
       "topics": [
         "awesome",
         "awesome-list",
         "kicad"
       ]
     },
-    "original_repository_sha": "ee5bc14bf6e4c924b62398e2d126e5f8d8dbadf1",
+    "original_repository_sha": "a22b79fe8cf542ec7a647b6433a39ce056cd89a8",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
