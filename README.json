@@ -23,7 +23,7 @@
                     "open_issues": 102,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2064,
+                    "stars": 2065,
                     "topics": [
                       "automation",
                       "kicad",
@@ -104,7 +104,7 @@
                     "open_issues": 47,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2134,
+                    "stars": 2136,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 627,
+                    "stars": 628,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -462,11 +462,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T15:10:30Z",
-                    "open_issues": 33,
+                    "last_commit": "2026-11-11T16:51:43Z",
+                    "open_issues": 42,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2203,
+                    "stars": 2208,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -502,7 +502,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1721,
+                    "stars": 1723,
                     "topics": [
                       "eda",
                       "electronics",
@@ -529,7 +529,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1456,
+                    "stars": 1457,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -718,7 +718,7 @@
                     "open_issues": 1,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 272,
+                    "stars": 274,
                     "topics": [
                       "kicad",
                       "library",
@@ -843,11 +843,11 @@
                     "id": 1319990014,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-08T14:18:24Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-11T12:50:54Z",
+                    "open_issues": 1,
                     "owner": "mrcpuddington",
                     "repo": "kobeestudio",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -864,7 +864,7 @@
                     "id": 1432619742,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T16:36:15Z",
+                    "last_commit": "2026-11-10T17:36:24Z",
                     "open_issues": 0,
                     "owner": "hridaya423",
                     "repo": "silkreel",
@@ -997,7 +997,7 @@
                     "open_issues": 1,
                     "owner": "typecad",
                     "repo": "pcb",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": [
                       "pcb",
                       "pcb-design",
@@ -1084,6 +1084,38 @@
                     ]
                   },
                   "first_seen": "2026-10-24T13:11:59.812Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "calligraphy-kicad-plugin",
+                  "description": "KiCad 8/9/10 Action Plugin and MCP server () for PCB trace impedance calculation, local DFM auditing, and multi-layer trace routing with curvilinear G1 arcs and teardrops.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official KiCad Action Plugin (PCM) for Calligraphy EDA — 1-click autonomous PCB routing & 350-DPI pre-purchase copper proof inspection (0 native KiCad DRC)",
+                    "homepage": "https://calligraphyeda.com",
+                    "id": 1451929035,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-09T22:03:35Z",
+                    "open_issues": 0,
+                    "owner": "calligraphysystems",
+                    "repo": "calligraphy-kicad-plugin",
+                    "stars": 0,
+                    "topics": [
+                      "autorouter",
+                      "eda",
+                      "electronics",
+                      "hardware",
+                      "kicad",
+                      "kicad-plugin",
+                      "mcp",
+                      "pcb-design",
+                      "pcm",
+                      "vibe-coding"
+                    ]
+                  },
+                  "first_seen": "2026-11-11T16:59:01.739Z"
                 }
               ],
               "description": null,
@@ -1108,7 +1140,7 @@
                     "open_issues": 47,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4646,
+                    "stars": 4647,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1142,7 +1174,7 @@
                     "open_issues": 7,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1634,
+                    "stars": 1646,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1184,7 +1216,7 @@
                     "open_issues": 60,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1168,
+                    "stars": 1169,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1387,11 +1419,11 @@
                     "id": 1280911053,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-04T18:59:13Z",
+                    "last_commit": "2026-11-11T05:35:26Z",
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 61,
+                    "stars": 74,
                     "topics": [
                       "browser",
                       "eda",
@@ -1483,7 +1515,7 @@
                     "id": 1424175640,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T15:46:14Z",
+                    "last_commit": "2026-11-11T13:49:52Z",
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
@@ -1608,7 +1640,7 @@
                     "open_issues": 8,
                     "owner": "lachlanA",
                     "repo": "eagle-to-kicad",
-                    "stars": 429,
+                    "stars": 430,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1702,6 +1734,38 @@
                     ]
                   },
                   "first_seen": "2026-10-20T14:12:47.839Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "open-pcb-routing-benchmark",
+                  "description": "Open-source KiCad & Specctra DSN PCB routing benchmark suite scored by ( unconnected items, copper DRC violations).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open-Source PCB Routing Torture Benchmark: 13 Complex Multi-Layer & High-Density 2-Layer KiCad Boards Routed to 100.0% Completion and 0 Native KiCad DRC Violations",
+                    "homepage": "https://calligraphyeda.com",
+                    "id": 1451930922,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-11T14:16:03Z",
+                    "open_issues": 0,
+                    "owner": "calligraphysystems",
+                    "repo": "open-pcb-routing-benchmark",
+                    "stars": 0,
+                    "topics": [
+                      "autorouter",
+                      "benchmark",
+                      "dfm",
+                      "eda",
+                      "freerouting",
+                      "hardware-engineering",
+                      "kicad",
+                      "open-source-hardware",
+                      "pcb-routing",
+                      "signal-integrity"
+                    ]
+                  },
+                  "first_seen": "2026-11-11T16:59:01.739Z"
                 }
               ],
               "description": null,
@@ -1914,7 +1978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:54:02.194Z",
+    "last_updated": "2026-11-11T16:59:01.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1922,8 +1986,8 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-11-10T12:54:50Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-11T09:52:40Z",
+      "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
       "stars": 651,
@@ -1933,7 +1997,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "5122e2281db6fccf1a42c5cf65f65636d6d550ad",
+    "original_repository_sha": "f77663887a626496f8a271cafe2b9d8eac02627f",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
