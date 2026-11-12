@@ -104,7 +104,7 @@
                     "open_issues": 47,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2136,
+                    "stars": 2138,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -462,11 +462,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-11T16:51:43Z",
-                    "open_issues": 42,
+                    "last_commit": "2026-11-12T14:41:14Z",
+                    "open_issues": 28,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2208,
+                    "stars": 2215,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -502,7 +502,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1723,
+                    "stars": 1725,
                     "topics": [
                       "eda",
                       "electronics",
@@ -638,7 +638,7 @@
                     "open_issues": 24,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 761,
+                    "stars": 762,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -817,7 +817,7 @@
                     "open_issues": 8,
                     "owner": "Shaurya-Sethi",
                     "repo": "circuitron",
-                    "stars": 130,
+                    "stars": 131,
                     "topics": [
                       "agentic-ai",
                       "circuit-design",
@@ -1137,7 +1137,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-17T02:50:58Z",
-                    "open_issues": 47,
+                    "open_issues": 48,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
                     "stars": 4647,
@@ -1174,7 +1174,7 @@
                     "open_issues": 7,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1646,
+                    "stars": 1659,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1300,7 +1300,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-09T18:47:07Z",
-                    "open_issues": 15,
+                    "open_issues": 17,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
                     "stars": 316,
@@ -1402,7 +1402,7 @@
                     "open_issues": 4,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1419,11 +1419,11 @@
                     "id": 1280911053,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-11T05:35:26Z",
+                    "last_commit": "2026-11-12T14:28:24Z",
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 74,
+                    "stars": 81,
                     "topics": [
                       "browser",
                       "eda",
@@ -1463,6 +1463,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "kisi",
+                  "description": "Quick signal and power integrity checks for KiCad boards in the browser or CLI: trace impedance, TDR, crosstalk, channels, IR drop, PDN impedance and temperature. Runs locally, no installation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad signal and power integrity tools, running locally in your browser or as CLI tool.",
+                    "homepage": "https://riehlies.github.io/kisi/kisi-examples.html",
+                    "id": 1424175640,
+                    "language": "Rust",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-12T16:28:52Z",
+                    "open_issues": 0,
+                    "owner": "riehlies",
+                    "repo": "kisi",
+                    "stars": 13,
+                    "topics": [
+                      "kicad",
+                      "pcb",
+                      "power-integrity",
+                      "signal-integrity"
+                    ]
+                  },
+                  "first_seen": "2026-10-24T13:11:59.812Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "akcli",
                   "description": "AI-native schematic design CLI for KiCad — author and edit from JSON op-lists behind a net-diff safety gate, run ERC / design-review / BOM checks, simulate on ngspice, and source JLCPCB parts. Zero dependencies (pure-stdlib Python).",
                   "children": [],
@@ -1477,7 +1503,7 @@
                     "open_issues": 1,
                     "owner": "tipoLi5890",
                     "repo": "akcli",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": [
                       "ai-agents",
                       "altium",
@@ -1502,32 +1528,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "kisi",
-                  "description": "Quick signal and power integrity checks for KiCad boards in the browser or CLI: trace impedance, TDR, crosstalk, channels, IR drop, PDN impedance and temperature. Runs locally, no installation.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "KiCad signal and power integrity tools, running locally in your browser or as CLI tool.",
-                    "homepage": "https://riehlies.github.io/kisi/kisi-examples.html",
-                    "id": 1424175640,
-                    "language": "Rust",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-11T13:49:52Z",
-                    "open_issues": 0,
-                    "owner": "riehlies",
-                    "repo": "kisi",
-                    "stars": 10,
-                    "topics": [
-                      "kicad",
-                      "pcb",
-                      "power-integrity",
-                      "signal-integrity"
-                    ]
-                  },
-                  "first_seen": "2026-10-24T13:11:59.812Z"
                 },
                 {
                   "node_type": "item",
@@ -1978,7 +1978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:59:01.739Z",
+    "last_updated": "2026-11-12T17:28:10.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1990,7 +1990,7 @@
       "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 651,
+      "stars": 652,
       "topics": [
         "awesome",
         "awesome-list",
