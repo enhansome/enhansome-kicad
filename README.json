@@ -463,10 +463,10 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-13T18:10:09Z",
-                    "open_issues": 40,
+                    "open_issues": 55,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2230,
+                    "stars": 2236,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -502,7 +502,7 @@
                     "open_issues": 46,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1725,
+                    "stars": 1726,
                     "topics": [
                       "eda",
                       "electronics",
@@ -614,7 +614,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 786,
+                    "stars": 788,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -847,7 +847,7 @@
                     "open_issues": 2,
                     "owner": "mrcpuddington",
                     "repo": "kobeestudio",
-                    "stars": 74,
+                    "stars": 75,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1009,6 +1009,42 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "CircuitAgent",
+                  "description": "AI-driven hardware synthesis DSL and deterministic netlist compiler. Constrains LLMs to validated circuit blocks, emitting native KiCad 8/9/10 schematics (.kicad_sch), Specctra DSN, and live LCSC BOMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Prompt → Schematic → Layout → 3D Enclosure: AI Hardware Synthesis, CircuitBlocks DSL, and MCP Server for KiCad/JLCPCB manufacturing",
+                    "homepage": "https://github.com/mo9652962-ai/circuit-agent",
+                    "id": 1400212551,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-05T17:14:40Z",
+                    "open_issues": 0,
+                    "owner": "mo9652962-ai",
+                    "repo": "circuit-agent",
+                    "stars": 2,
+                    "topics": [
+                      "ai-agent",
+                      "automation",
+                      "eda",
+                      "electronics",
+                      "hardware",
+                      "hardware-compiler",
+                      "jlcpcb",
+                      "jlpcb",
+                      "kicad",
+                      "llm",
+                      "mcp",
+                      "pcb",
+                      "python",
+                      "schematic"
+                    ]
+                  },
+                  "first_seen": "2026-10-24T13:11:59.812Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Stimulu KiCad Plugins",
                   "description": "Collection of KiCad plugins to reproduce or use Stimulu board files.",
                   "children": [],
@@ -1048,42 +1084,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "CircuitAgent",
-                  "description": "AI-driven hardware synthesis DSL and deterministic netlist compiler. Constrains LLMs to validated circuit blocks, emitting native KiCad 8/9/10 schematics (.kicad_sch), Specctra DSN, and live LCSC BOMs.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Prompt → Schematic → Layout → 3D Enclosure: AI Hardware Synthesis, CircuitBlocks DSL, and MCP Server for KiCad/JLCPCB manufacturing",
-                    "homepage": "https://github.com/mo9652962-ai/circuit-agent",
-                    "id": 1400212551,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-11-05T17:14:40Z",
-                    "open_issues": 0,
-                    "owner": "mo9652962-ai",
-                    "repo": "circuit-agent",
-                    "stars": 1,
-                    "topics": [
-                      "ai-agent",
-                      "automation",
-                      "eda",
-                      "electronics",
-                      "hardware",
-                      "hardware-compiler",
-                      "jlcpcb",
-                      "jlpcb",
-                      "kicad",
-                      "llm",
-                      "mcp",
-                      "pcb",
-                      "python",
-                      "schematic"
-                    ]
-                  },
-                  "first_seen": "2026-10-24T13:11:59.812Z"
                 },
                 {
                   "node_type": "item",
@@ -1170,11 +1170,11 @@
                     "id": 1176559390,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-14T06:56:33Z",
+                    "last_commit": "2026-11-15T07:00:42Z",
                     "open_issues": 7,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1673,
+                    "stars": 1679,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1216,7 +1216,7 @@
                     "open_issues": 60,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1171,
+                    "stars": 1173,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1402,7 +1402,7 @@
                     "open_issues": 4,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1423,7 +1423,7 @@
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": [
                       "browser",
                       "eda",
@@ -1795,7 +1795,7 @@
                 "open_issues": 13,
                 "owner": "Alarm-Siren",
                 "repo": "arduino-kicad-library",
-                "stars": 451,
+                "stars": 452,
                 "topics": [
                   "arduino",
                   "arduino-uno",
@@ -1978,7 +1978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:40:15.629Z",
+    "last_updated": "2026-11-15T16:11:24.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
