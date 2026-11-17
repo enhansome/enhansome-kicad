@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T07:00:53Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-11-17T00:53:23Z",
+                    "open_issues": 49,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2140,
+                    "stars": 2143,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -420,7 +420,7 @@
                     "id": 1336763131,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T05:38:43Z",
+                    "last_commit": "2026-11-17T01:27:57Z",
                     "open_issues": 0,
                     "owner": "mo9652962-ai",
                     "repo": "wave-fixture-ai",
@@ -462,11 +462,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-16T14:31:55Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-11-17T11:25:35Z",
+                    "open_issues": 50,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2241,
+                    "stars": 2246,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -614,7 +614,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 788,
+                    "stars": 789,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -634,7 +634,7 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-13T13:01:32Z",
+                    "last_commit": "2026-11-17T16:24:21Z",
                     "open_issues": 24,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
@@ -1140,7 +1140,7 @@
                     "open_issues": 49,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4649,
+                    "stars": 4651,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1170,11 +1170,11 @@
                     "id": 1176559390,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T18:45:03Z",
+                    "last_commit": "2026-11-17T14:06:38Z",
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1685,
+                    "stars": 1694,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1243,7 +1243,7 @@
                     "open_issues": 9,
                     "owner": "leoheck",
                     "repo": "kiri",
-                    "stars": 722,
+                    "stars": 723,
                     "topics": [
                       "diff",
                       "kicad",
@@ -1303,7 +1303,7 @@
                     "open_issues": 15,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 316,
+                    "stars": 317,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1423,7 +1423,7 @@
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": [
                       "browser",
                       "eda",
@@ -1473,7 +1473,7 @@
                     "id": 1424175640,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-13T14:34:00Z",
+                    "last_commit": "2026-11-17T18:12:43Z",
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
@@ -1609,7 +1609,7 @@
                     "open_issues": 77,
                     "owner": "thesourcerer8",
                     "repo": "altium2kicad",
-                    "stars": 957,
+                    "stars": 955,
                     "topics": [
                       "altium",
                       "conversion",
@@ -1749,7 +1749,7 @@
                     "license": "MIT",
                     "last_commit": "2026-11-11T14:16:03Z",
                     "open_issues": 0,
-                    "owner": "calligraphysystems",
+                    "owner": "calligraphysystems-admin",
                     "repo": "open-pcb-routing-benchmark",
                     "stars": 0,
                     "topics": [
@@ -1791,7 +1791,7 @@
                 "id": 89703898,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-15T22:52:23Z",
+                "last_commit": "2026-11-16T21:27:29Z",
                 "open_issues": 13,
                 "owner": "Alarm-Siren",
                 "repo": "arduino-kicad-library",
@@ -1843,7 +1843,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4989,
+                "stars": 4991,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1868,6 +1868,62 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Gerber layer checks teaching pack",
+              "description": "Three KiCad 10 Gerber exports of one small board (original, missing outline, bottom-copper file renamed against its X2 FileFunction) for practising Gerber review. Includes the KiCad source, expected results and reproduction scripts. MIT licensed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Three controlled Gerber examples from an original KiCad 10.0.6 board: baseline, missing outline, and a copper file whose name conflicts with its X2 attributes. MIT.",
+                "homepage": "https://pcbapartner.com/tools/gerber-layer-checks/",
+                "id": 1444044172,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-11-03T09:03:10Z",
+                "open_issues": 0,
+                "owner": "pcbapartner",
+                "repo": "gerber-layer-checks-teaching-pack",
+                "stars": 0,
+                "topics": [
+                  "gerber",
+                  "gerber-x2",
+                  "kicad",
+                  "pcb",
+                  "pcb-design",
+                  "teaching"
+                ]
+              },
+              "first_seen": "2026-11-17T18:20:19.786Z"
+            },
+            {
+              "node_type": "item",
+              "title": "KiCad export compatibility teaching pack",
+              "description": "Small KiCad 10.0.6 project with unedited BOM and placement exports (mm/inch, ASCII/CSV), independent expected values and recorded import results, for checking how assemblers read native KiCad exports. MIT licensed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Original KiCad 10.0.6 teaching project with unedited BOM, placement and Gerber exports plus expected results, for checking assembler import compatibility. MIT.",
+                "homepage": "https://pcbapartner.com/tools/kicad-export-compatibility/",
+                "id": 1444030675,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-11-03T09:00:26Z",
+                "open_issues": 0,
+                "owner": "pcbapartner",
+                "repo": "kicad-export-compatibility-teaching-pack",
+                "stars": 0,
+                "topics": [
+                  "bom",
+                  "gerber",
+                  "kicad",
+                  "pcb-assembly",
+                  "pick-and-place",
+                  "teaching"
+                ]
+              },
+              "first_seen": "2026-11-17T18:20:19.786Z"
             }
           ],
           "description": null,
@@ -1978,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:26:15.341Z",
+    "last_updated": "2026-11-17T18:20:19.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -1986,8 +2042,8 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-11-13T12:12:44Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-17T13:26:52Z",
+      "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
       "stars": 652,
@@ -1997,7 +2053,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "f77663887a626496f8a271cafe2b9d8eac02627f",
+    "original_repository_sha": "376c59d1229895ea84aa4bef0403dafdd28c7833",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
