@@ -104,7 +104,7 @@
                     "open_issues": 48,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2146,
+                    "stars": 2148,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 628,
+                    "stars": 627,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -442,6 +442,48 @@
                     ]
                   },
                   "first_seen": "2026-10-24T13:11:59.812Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PCB TraceMill",
+                  "description": "Mill KiCad boards at home on a hobby CNC router: reads the Gerber and drill files KiCad exports and writes G-code for Mach3, GRBL and LinuxCNC (isolation, drilling, cutout with tabs, 3D simulation, auto-levelling). Free and open source (MIT).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Free PCB milling software: Gerber & Excellon drill files to G-code for hobby CNC routers (Mach3, GRBL, LinuxCNC). Isolation, drilling, cutout, 3D simulation, auto-levelling. Windows, macOS, Linux.",
+                    "homepage": "https://aazriel.github.io/pcbtracemill/",
+                    "id": 1450679145,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-11-20T01:07:25Z",
+                    "open_issues": 0,
+                    "owner": "aazriel",
+                    "repo": "pcbtracemill",
+                    "stars": 1,
+                    "topics": [
+                      "autolevel",
+                      "cam",
+                      "cnc",
+                      "cnc-router",
+                      "easyeda",
+                      "electron",
+                      "excellon",
+                      "flatcam-alternative",
+                      "gcode",
+                      "gerber",
+                      "gerber-to-gcode",
+                      "grbl",
+                      "hobby-cnc",
+                      "isolation-milling",
+                      "kicad",
+                      "linuxcnc",
+                      "mach3",
+                      "pcb",
+                      "pcb-milling",
+                      "pcb-prototyping"
+                    ]
+                  },
+                  "first_seen": "2026-11-21T16:40:56.528Z"
                 }
               ],
               "description": null,
@@ -462,11 +504,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-20T11:50:56Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-11-21T08:24:35Z",
+                    "open_issues": 43,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2251,
+                    "stars": 2252,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -502,7 +544,7 @@
                     "open_issues": 47,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1728,
+                    "stars": 1729,
                     "topics": [
                       "eda",
                       "electronics",
@@ -529,7 +571,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1460,
+                    "stars": 1461,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -614,7 +656,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 789,
+                    "stars": 790,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -669,7 +711,7 @@
                     "open_issues": 29,
                     "owner": "Robotips",
                     "repo": "uConfig",
-                    "stars": 588,
+                    "stars": 587,
                     "topics": [
                       "extract-pinout",
                       "kicad",
@@ -864,7 +906,7 @@
                     "id": 1432619742,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T20:43:30Z",
+                    "last_commit": "2026-11-21T14:47:58Z",
                     "open_issues": 0,
                     "owner": "hridaya423",
                     "repo": "silkreel",
@@ -980,6 +1022,44 @@
                     "topics": []
                   },
                   "first_seen": "2026-09-15T14:15:16.030Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "kicad-splitplane",
+                  "description": "Splits an inner power layer into exactly one continuous zone per supply net (e.g. +5V, +3V3, +1V8), computed from the nets' vias and through-hole pads, and writes the zones into the board. Reports trapped vias with a suggested new position, islands and thin necks; optionally follows the board's clearance rules and keepout areas. KiCad 9/10 plugin (in the PCM), CLI, Python library and MCP server.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Split a KiCad power layer into one continuous copper zone per voltage",
+                    "homepage": "https://people.ee.ethz.ch/~atuzlak/kicad-splitplane.html",
+                    "id": 1438834011,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-21T03:23:16Z",
+                    "open_issues": 0,
+                    "owner": "atuzlak",
+                    "repo": "kicad-splitplane",
+                    "stars": 4,
+                    "topics": [
+                      "copper-zone",
+                      "eda",
+                      "electronics",
+                      "hardware",
+                      "kicad",
+                      "kicad-pcm",
+                      "kicad-plugin",
+                      "mcp",
+                      "mcp-server",
+                      "model-context-protocol",
+                      "pcb",
+                      "pcb-design",
+                      "pcb-layout",
+                      "power-plane",
+                      "python",
+                      "split-plane"
+                    ]
+                  },
+                  "first_seen": "2026-11-21T16:40:56.528Z"
                 },
                 {
                   "node_type": "item",
@@ -1140,7 +1220,7 @@
                     "open_issues": 50,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4653,
+                    "stars": 4655,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1174,7 +1254,7 @@
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1715,
+                    "stars": 1725,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1282,7 +1362,7 @@
                     "open_issues": 44,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 705,
+                    "stars": 706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1300,7 +1380,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-19T14:04:10Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
                     "stars": 319,
@@ -1545,7 +1625,7 @@
                     "open_issues": 1,
                     "owner": "flintt-dev",
                     "repo": "boardrepo-plugin",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": [
                       "claude-plugin",
                       "codex-plugin",
@@ -1843,7 +1923,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4991,
+                "stars": 4992,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -2010,7 +2090,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 229,
+                "stars": 230,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2034,7 +2114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:39:44.084Z",
+    "last_updated": "2026-11-21T16:40:56.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -2042,18 +2122,18 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-11-17T13:26:52Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-20T19:34:40Z",
+      "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 652,
+      "stars": 653,
       "topics": [
         "awesome",
         "awesome-list",
         "kicad"
       ]
     },
-    "original_repository_sha": "376c59d1229895ea84aa4bef0403dafdd28c7833",
+    "original_repository_sha": "022342a5b671c0efb1f9b2f226fe950f7b391a90",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
