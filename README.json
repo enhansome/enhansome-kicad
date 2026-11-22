@@ -104,7 +104,7 @@
                     "open_issues": 48,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2148,
+                    "stars": 2149,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -183,7 +183,7 @@
                     "open_issues": 6,
                     "owner": "matthewlai",
                     "repo": "JLCKicadTools",
-                    "stars": 356,
+                    "stars": 354,
                     "topics": [
                       "bom-tool",
                       "jlcpcb",
@@ -508,7 +508,7 @@
                     "open_issues": 43,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2252,
+                    "stars": 2255,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -626,7 +626,7 @@
                     "open_issues": 38,
                     "owner": "easyw",
                     "repo": "RF-tools-KiCAD",
-                    "stars": 844,
+                    "stars": 843,
                     "topics": [
                       "fence-generator",
                       "kicad",
@@ -656,7 +656,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 790,
+                    "stars": 789,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -1035,7 +1035,7 @@
                     "id": 1438834011,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T03:23:16Z",
+                    "last_commit": "2026-11-22T03:23:38Z",
                     "open_issues": 0,
                     "owner": "atuzlak",
                     "repo": "kicad-splitplane",
@@ -1071,9 +1071,9 @@
                     "description": "🤖programmatically 💥create 🛰️hardware",
                     "homepage": null,
                     "id": 1361604434,
-                    "language": "TypeScript",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T17:34:41Z",
+                    "language": "HTML",
+                    "license": null,
+                    "last_commit": "2026-11-21T19:29:17Z",
                     "open_issues": 1,
                     "owner": "typecad",
                     "repo": "pcb",
@@ -1099,7 +1099,7 @@
                     "id": 1400212551,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T05:27:39Z",
+                    "last_commit": "2026-11-22T16:13:47Z",
                     "open_issues": 0,
                     "owner": "mo9652962-ai",
                     "repo": "circuit-agent",
@@ -1220,7 +1220,7 @@
                     "open_issues": 50,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4655,
+                    "stars": 4656,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1254,7 +1254,7 @@
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1725,
+                    "stars": 1726,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1503,7 +1503,7 @@
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": [
                       "browser",
                       "eda",
@@ -1557,7 +1557,7 @@
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -1689,7 +1689,7 @@
                     "open_issues": 77,
                     "owner": "thesourcerer8",
                     "repo": "altium2kicad",
-                    "stars": 955,
+                    "stars": 954,
                     "topics": [
                       "altium",
                       "conversion",
@@ -1923,7 +1923,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4992,
+                "stars": 4991,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1961,7 +1961,7 @@
                 "id": 1444044172,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-03T09:03:10Z",
+                "last_commit": "2026-11-22T15:49:34Z",
                 "open_issues": 0,
                 "owner": "pcbapartner",
                 "repo": "gerber-layer-checks-teaching-pack",
@@ -2114,7 +2114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:40:56.528Z",
+    "last_updated": "2026-11-22T16:59:29.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",

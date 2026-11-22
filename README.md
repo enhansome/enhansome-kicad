@@ -1,6 +1,6 @@
 # Awesome Kicad with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,382 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,945 | 🐛 103 | 📅 2026-09-02
 
 ### Install from KiCad
 
@@ -33,10 +33,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
 
 ##### Manufacturing BOM and Gerbers
 
-* [Kicad JLCPCB Tools](https://github.com/Bouni/kicad-jlcpcb-tools) ⭐ 2,148 | 🐛 48 | 🌐 Python | 📅 2026-11-18: Plugin to generate all files necessary for JLCPCB board fabrication and assembly
+* [Kicad JLCPCB Tools](https://github.com/Bouni/kicad-jlcpcb-tools) ⭐ 2,149 | 🐛 48 | 🌐 Python | 📅 2026-11-18: Plugin to generate all files necessary for JLCPCB board fabrication and assembly
 * [KiCost](https://github.com/xesscorp/KiCost) ⭐ 627 | 🐛 32 | 🌐 Python | 📅 2026-07-08: Build cost spreadsheet for a KiCad project.
 * [KiBoM](https://github.com/SchrodingersGat/KiBoM) ⚠️ Archived: Configurable BoM generation tool for KiCad EDA
-* [JLCKicadTools](https://github.com/matthewlai/JLCKicadTools) ⭐ 356 | 🐛 6 | 🌐 Python | 📅 2025-05-01: Tool for using JLCPCB assembly service with KiCad
+* [JLCKicadTools](https://github.com/matthewlai/JLCKicadTools) ⭐ 354 | 🐛 6 | 🌐 Python | 📅 2025-05-01: Tool for using JLCPCB assembly service with KiCad
 * [KiCad JLCPCB BOM Plugin](https://github.com/wokwi/kicad-jlcpcb-bom-plugin) ⭐ 205 | 🐛 5 | 🌐 Python | 📅 2023-04-16: Export a JLCPCB Compatible BOM directly from your KiCad schematic
 * [kicad-gerberzipper](https://github.com/g200kg/kicad-gerberzipper) ⭐ 62 | 🐛 7 | 🌐 Python | 📅 2026-07-13: KiCad Plot and Zip
 * [gerber\_to\_order](https://github.com/asukiaaa/gerber_to_order) ⭐ 62 | 🐛 7 | 🌐 Python | 📅 2026-09-29: A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.
@@ -52,12 +52,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
 
 ##### PCB Design
 
-* [FreeRouting](https://github.com/freerouting/freerouting) ⭐ 2,252 | 🐛 43 | 🌐 Java | 📅 2026-11-21: Advanced PCB auto-router
+* [FreeRouting](https://github.com/freerouting/freerouting) ⭐ 2,255 | 🐛 43 | 🌐 Java | 📅 2026-11-21: Advanced PCB auto-router
 * [SKiDL](https://github.com/devbisme/skidl) ⭐ 1,729 | 🐛 47 | 🌐 Python | 📅 2026-11-09: A module that extends Python with the ability to design electronic circuits.
 * [PcbDraw](https://github.com/yaqwsx/PcbDraw) ⭐ 1,461 | 🐛 10 | 🌐 Python | 📅 2026-10-09: Convert your KiCAD boards into nice looking 2D drawings suitable for pinout diagrams
 * [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen) ⭐ 875 | 🐛 50 | 🌐 C++ | 📅 2025-03-15: (Discontinued) Inkscape extension for exporting drawings into a KiCad PCB.
-* [KiCad RF Tools](https://github.com/easyw/RF-tools-KiCAD) ⭐ 844 | 🐛 38 | 🌐 Python | 📅 2024-11-11: Footprints, wizards and round tracks, mask expander, via fencing
-* [KiCad Templates](https://github.com/sethhillbrand/kicad_templates) ⭐ 790 | 🐛 6 | 🌐 HTML | 📅 2019-10-24: Provides a number of additional Board and production house templates for KiCad EDA.
+* [KiCad RF Tools](https://github.com/easyw/RF-tools-KiCAD) ⭐ 843 | 🐛 38 | 🌐 Python | 📅 2024-11-11: Footprints, wizards and round tracks, mask expander, via fencing
+* [KiCad Templates](https://github.com/sethhillbrand/kicad_templates) ⭐ 789 | 🐛 6 | 🌐 HTML | 📅 2019-10-24: Provides a number of additional Board and production house templates for KiCad EDA.
 * [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 763 | 🐛 24 | 🌐 Python | 📅 2026-11-19: KiCad automation utility.
 * [uConfig](https://github.com/Robotips/uConfig) ⭐ 587 | 🐛 29 | 🌐 C++ | 📅 2026-02-24: Datasheet pinout extractor from PDF and library Stylizer for Kicad.
 * [KiBuzzard](https://github.com/gregdavill/KiBuzzard) ⭐ 477 | 🐛 25 | 🌐 Python | 📅 2026-04-09: Create labels in various fonts, and with inverted backgrounds
@@ -72,9 +72,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
 * [Img2Silk](https://github.com/NBalciunas/kicad-img2silk) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-11-10: Dither images into PCB graphics using Floyd–Steinberg, Atkinson, Bayer and other algorithms, in B\&W or multi-color using board layers as a palette.
 * [NCCM](https://github.com/Mage-Control-Systems-Ltd/NCCM) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-05-26: Net Class Clearance Matrix (NCCM) to generate custom rules for clearances between net classes through a matrix GUI.
 * [RFgen](https://github.com/NBalciunas/kicad-rfgen) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-09-14: KiCad plugin for quickly generating customizable RF footprints and antennas.
-* [kicad-splitplane](https://github.com/atuzlak/kicad-splitplane) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-21: Splits an inner power layer into exactly one continuous zone per supply net (e.g. +5V, +3V3, +1V8), computed from the nets' vias and through-hole pads, and writes the zones into the board. Reports trapped vias with a suggested new position, islands and thin necks; optionally follows the board's clearance rules and keepout areas. KiCad 9/10 plugin (in the PCM), CLI, Python library and MCP server.
-* [typeCAD](https://github.com/typecad/pcb) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-25: Programmatically create hardware designs with TypeScript. Create/reuse/import version-controlled packages between projects.
-* [CircuitAgent](https://github.com/mo9652962-ai/circuit-agent) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-16: AI-driven hardware synthesis DSL and deterministic netlist compiler. Constrains LLMs to validated circuit blocks, emitting native KiCad 8/9/10 schematics (.kicad\_sch), Specctra DSN, and live LCSC BOMs.
+* [kicad-splitplane](https://github.com/atuzlak/kicad-splitplane) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-22: Splits an inner power layer into exactly one continuous zone per supply net (e.g. +5V, +3V3, +1V8), computed from the nets' vias and through-hole pads, and writes the zones into the board. Reports trapped vias with a suggested new position, islands and thin necks; optionally follows the board's clearance rules and keepout areas. KiCad 9/10 plugin (in the PCM), CLI, Python library and MCP server.
+* [typeCAD](https://github.com/typecad/pcb) ⭐ 3 | 🐛 1 | 🌐 HTML | 📅 2026-11-21: Programmatically create hardware designs with TypeScript. Create/reuse/import version-controlled packages between projects.
+* [CircuitAgent](https://github.com/mo9652962-ai/circuit-agent) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-22: AI-driven hardware synthesis DSL and deterministic netlist compiler. Constrains LLMs to validated circuit blocks, emitting native KiCad 8/9/10 schematics (.kicad\_sch), Specctra DSN, and live LCSC BOMs.
 * [Stimulu KiCad Plugins](https://github.com/stimulu/stimulu-kicad-plugins) ⭐ 1 | 🐛 0 | 📅 2019-05-12: Collection of KiCad plugins to reproduce or use Stimulu board files.
 * [Rectangulator](https://github.com/msolomentsev/rectangulator) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-30: A simple plug-in that automatically turns zones into perfect rectangles.
 * [calligraphy-kicad-plugin](https://github.com/calligraphysystems/calligraphy-kicad-plugin) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-09: KiCad 8/9/10 Action Plugin and MCP server (`vibe-hardware-mcp`) for PCB trace impedance calculation, local DFM auditing, and multi-layer trace routing with curvilinear G1 arcs and teardrops.
@@ -82,11 +82,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
 
 ##### Presentations
 
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,655 | 🐛 50 | 🌐 Python | 📅 2026-11-13: Generate convenient BOM listing with ability to visually correlate and easily search for components and their placements on the pcb
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,656 | 🐛 50 | 🌐 Python | 📅 2026-11-13: Generate convenient BOM listing with ability to visually correlate and easily search for components and their placements on the pcb
 
 ##### Reviewing
 
-* [kicad-happy](https://github.com/aklofas/kicad-happy) ⭐ 1,725 | 🐛 3 | 🌐 Python | 📅 2026-11-19: AI-powered design review for KiCad — schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing prep via Claude Code skills.
+* [kicad-happy](https://github.com/aklofas/kicad-happy) ⭐ 1,726 | 🐛 3 | 🌐 Python | 📅 2026-11-19: AI-powered design review for KiCad — schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing prep via Claude Code skills.
 * [kicanvas](https://github.com/theacodes/kicanvas) ⭐ 1,174 | 🐛 60 | 🌐 TypeScript | 📅 2026-04-28: KiCanvas is an interactive, browser-based viewer for KiCAD schematics and boards
 * [kiri](https://github.com/leoheck/kiri) ⭐ 723 | 🐛 9 | 🌐 Shell | 📅 2026-06-22: A tool for reviewing Kicad's projects visually including schematics and layout using Kicad-Diff and Plotgitsch
 * [KiCadStepUp](https://github.com/easyw/kicadStepUpMod/) ⭐ 706 | 🐛 44 | 🌐 Python | 📅 2026-09-04: KiCad StepUp is a FreeCAD Workbench to help in mechanical collaboration between KiCad EDA and FreeCAD.
@@ -95,9 +95,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
 * [gerber2ems](https://github.com/antmicro/gerber2ems) ⭐ 276 | 🐛 10 | 🌐 Python | 📅 2026-11-19: Takes PCB production files as input (Gerber, drill files, stackup information) and simulates trace SI performance using openEMS
 * [plotkicadsch](https://github.com/jnavila/plotkicadsch) ⭐ 234 | 🐛 4 | 🌐 OCaml | 📅 2026-07-28: Export Kicad Sch files to structured picture files
 * [RFsim](https://github.com/NBalciunas/kicad-rfsim) ⭐ 150 | 🐛 4 | 🌐 Python | 📅 2026-11-04: KiCad 10 plugin for simulating S-parameters, E/H fields and far field of an RF structure directly in the PCB editor with the openEMS FDTD solver.
-* [ZiroEDA](https://github.com/ZiroEDA/ziro-designer) ⭐ 95 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-20: KiCad 10 ported to the browser (TypeScript, GPL-3.0). Open, edit and share real schematic and PCB projects with nothing to install; any public GitHub KiCad repo opens at `designer.ziroeda.com/gh/<owner>/<repo>`.
+* [ZiroEDA](https://github.com/ZiroEDA/ziro-designer) ⭐ 96 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-20: KiCad 10 ported to the browser (TypeScript, GPL-3.0). Open, edit and share real schematic and PCB projects with nothing to install; any public GitHub KiCad repo opens at `designer.ziroeda.com/gh/<owner>/<repo>`.
 * [gerber2blend](https://github.com/antmicro/gerber2blend) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2025-12-11: open-source utility to generate 3D models of Printed Circuit Boards (PCBs) in Blender (`.blend` format)
-* [kisi](https://github.com/riehlies/kisi) ⭐ 17 | 🐛 0 | 🌐 Rust | 📅 2026-11-20: Quick signal and power integrity checks for KiCad boards in the browser or CLI: trace impedance, TDR, crosstalk, channels, IR drop, PDN impedance and temperature. Runs locally, no installation.
+* [kisi](https://github.com/riehlies/kisi) ⭐ 18 | 🐛 0 | 🌐 Rust | 📅 2026-11-20: Quick signal and power integrity checks for KiCad boards in the browser or CLI: trace impedance, TDR, crosstalk, channels, IR drop, PDN impedance and temperature. Runs locally, no installation.
 * [akcli](https://github.com/tipoLi5890/akcli) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-08-25: AI-native schematic design CLI for KiCad — author and edit `.kicad_sch` from JSON op-lists behind a net-diff safety gate, run ERC / design-review / BOM checks, simulate on ngspice, and source JLCPCB parts. Zero dependencies (pure-stdlib Python).
 * [BoardRepo](https://github.com/flintt-dev/boardrepo-plugin) ⭐ 1 | 🐛 1 | 📅 2026-11-19: Hosted project library and read-only review tools for KiCad schematics, BOMs, source files, DRC/ERC results, and fabrication constraints through MCP.
 * [kicad-irdrop](https://github.com/firedanceio/kicad-irdrop) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-20: DC voltage-drop (IR-drop) analysis of a power rail on the real copper: pours, tracks, pads and via barrels, measured from the regulator's sense point. Reports the worst and median drop at the load pins, vias over their IPC-2221 rating and current-density maps per layer. Runs with KiCad's Python.
@@ -135,9 +135,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
 
 #### Tutorials
 
-* [Keyboard PCB guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,992 | 🐛 22 | 📅 2024-07-02: Guide on how to design keyboard PCBs with KiCad
+* [Keyboard PCB guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,991 | 🐛 22 | 📅 2024-07-02: Guide on how to design keyboard PCBs with KiCad
 * [Hawk](https://github.com/MalphasWats/hawk) ⭐ 486 | 🐛 4 | 🌐 C | 📅 2020-11-06: Tutorial for making an ARM dev board in KiCAD
-* [Gerber layer checks teaching pack](https://github.com/pcbapartner/gerber-layer-checks-teaching-pack) ⭐ 0 | 🐛 0 | 📅 2026-11-03: Three KiCad 10 Gerber exports of one small board (original, missing outline, bottom-copper file renamed against its X2 FileFunction) for practising Gerber review. Includes the KiCad source, expected results and reproduction scripts. MIT licensed.
+* [Gerber layer checks teaching pack](https://github.com/pcbapartner/gerber-layer-checks-teaching-pack) ⭐ 0 | 🐛 0 | 📅 2026-11-22: Three KiCad 10 Gerber exports of one small board (original, missing outline, bottom-copper file renamed against its X2 FileFunction) for practising Gerber review. Includes the KiCad source, expected results and reproduction scripts. MIT licensed.
 * [KiCad export compatibility teaching pack](https://github.com/pcbapartner/kicad-export-compatibility-teaching-pack) ⭐ 0 | 🐛 0 | 📅 2026-11-03: Small KiCad 10.0.6 project with unedited BOM and placement exports (mm/inch, ASCII/CSV), independent expected values and recorded import results, for checking how assemblers read native KiCad exports. MIT licensed.
 * [KiCad BOM and placement export exercises](https://pcbapartner.com/tools/kicad-export-compatibility/): Reproducible KiCad 10.0.6 BOM and position-file exercises with original teaching sources, native exports and recorded results.
 
@@ -155,4 +155,4 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
