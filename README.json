@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T02:51:37Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-11-23T03:49:30Z",
+                    "open_issues": 47,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2149,
+                    "stars": 2151,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -347,8 +347,8 @@
                     "id": 1067889432,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-23T20:31:00Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-23T15:33:02Z",
+                    "open_issues": 8,
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
                     "stars": 7,
@@ -504,11 +504,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-21T08:24:35Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-11-23T12:03:55Z",
+                    "open_issues": 32,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2255,
+                    "stars": 2258,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -544,7 +544,7 @@
                     "open_issues": 47,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1729,
+                    "stars": 1732,
                     "topics": [
                       "eda",
                       "electronics",
@@ -760,7 +760,7 @@
                     "open_issues": 1,
                     "owner": "Steffen-W",
                     "repo": "Import-LIB-KiCad-Plugin",
-                    "stars": 276,
+                    "stars": 277,
                     "topics": [
                       "kicad",
                       "library",
@@ -1035,7 +1035,7 @@
                     "id": 1438834011,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T03:23:38Z",
+                    "last_commit": "2026-11-23T16:38:11Z",
                     "open_issues": 0,
                     "owner": "atuzlak",
                     "repo": "kicad-splitplane",
@@ -1086,6 +1086,48 @@
                     ]
                   },
                   "first_seen": "2026-10-22T14:26:05.002Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cherry Blossom",
+                  "description": "Open-source (AGPL-3.0) schematic and PCB editor that runs in the browser. Imports KiCad projects, boards and schematics, and exports a KiCad project with its 3D models, plus Gerbers, Altium and STEP. Autorouter, copper pours, DRC and ERC; in the hosted app, Claude, ChatGPT or Cursor can design boards in it over MCP.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open-source AI PCB design (EDA) in your browser: schematic, PCB layout, autorouter, DRC, KiCad import, Gerber/KiCad/Altium/STEP export. Design boards with Claude, ChatGPT or Cursor over MCP.",
+                    "homepage": "https://www.trycherryblossom.com",
+                    "id": 1301041367,
+                    "language": "TypeScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-11-22T18:10:08Z",
+                    "open_issues": 6,
+                    "owner": "cherryblossomhq",
+                    "repo": "pcb-editor",
+                    "stars": 3,
+                    "topics": [
+                      "ai",
+                      "ai-agents",
+                      "altium",
+                      "autorouter",
+                      "circuit-design",
+                      "claude",
+                      "eda",
+                      "electronics",
+                      "electronics-design",
+                      "gerber",
+                      "hardware",
+                      "kicad",
+                      "llm",
+                      "mcp",
+                      "mcp-server",
+                      "pcb",
+                      "pcb-design",
+                      "pcb-layout",
+                      "schematic",
+                      "schematic-editor"
+                    ]
+                  },
+                  "first_seen": "2026-11-23T21:01:44.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1254,7 +1296,7 @@
                     "open_issues": 3,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1726,
+                    "stars": 1740,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1296,7 +1338,7 @@
                     "open_issues": 60,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1174,
+                    "stars": 1175,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1362,7 +1404,7 @@
                     "open_issues": 44,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 706,
+                    "stars": 707,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1383,7 +1425,7 @@
                     "open_issues": 17,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 319,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1425,7 +1467,7 @@
                     "open_issues": 10,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
-                    "stars": 276,
+                    "stars": 277,
                     "topics": [
                       "electromagnetic-simulation",
                       "fdtd",
@@ -1482,7 +1524,7 @@
                     "open_issues": 4,
                     "owner": "NBalciunas",
                     "repo": "kicad-rfsim",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1503,7 +1545,7 @@
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": [
                       "browser",
                       "eda",
@@ -1553,11 +1595,11 @@
                     "id": 1424175640,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-20T04:39:44Z",
+                    "last_commit": "2026-11-22T22:26:00Z",
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -1579,7 +1621,7 @@
                     "id": 1281398269,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-25T10:31:11Z",
+                    "last_commit": "2026-11-23T13:27:02Z",
                     "open_issues": 1,
                     "owner": "tipoLi5890",
                     "repo": "akcli",
@@ -2114,7 +2156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:59:29.286Z",
+    "last_updated": "2026-11-23T21:01:44.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -2122,7 +2164,7 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-11-20T19:34:40Z",
+      "last_commit": "2026-11-23T09:58:17Z",
       "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
@@ -2133,7 +2175,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "022342a5b671c0efb1f9b2f226fe950f7b391a90",
+    "original_repository_sha": "48d482fd22b839a7311bae39ba3c40b0b924d265",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
