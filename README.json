@@ -23,7 +23,7 @@
                     "open_issues": 102,
                     "owner": "yaqwsx",
                     "repo": "KiKit",
-                    "stars": 2074,
+                    "stars": 2077,
                     "topics": [
                       "automation",
                       "kicad",
@@ -104,7 +104,7 @@
                     "open_issues": 47,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2153,
+                    "stars": 2154,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 627,
+                    "stars": 628,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -484,6 +484,27 @@
                     ]
                   },
                   "first_seen": "2026-11-21T16:40:56.528Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PCBA Partner Fabrication Toolkit",
+                  "description": "Exports a Gerber/drill ZIP, grouped BOM and placement CSV from the saved project, with a pre-flight report on missing fields, a missing board outline and BOM/placement differences. Runs locally, vendor-neutral.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Local KiCad 10 fabrication export: Gerber/drill ZIP, BOM, CPL and pre-flight report. GPL-3.0-or-later.",
+                    "homepage": "https://pcbapartner.com/",
+                    "id": 1409557141,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-15T09:06:16Z",
+                    "open_issues": 0,
+                    "owner": "pcbapartner",
+                    "repo": "pcba-fabrication-toolkit",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-25T19:03:11.476Z"
                 }
               ],
               "description": null,
@@ -504,11 +525,11 @@
                     "id": 21307203,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-24T11:25:49Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-11-25T16:35:36Z",
+                    "open_issues": 35,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2262,
+                    "stars": 2269,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -680,7 +701,7 @@
                     "open_issues": 24,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 763,
+                    "stars": 765,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -809,7 +830,7 @@
                     "open_issues": 17,
                     "owner": "wntrblm",
                     "repo": "Gingerbread",
-                    "stars": 211,
+                    "stars": 212,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -910,7 +931,7 @@
                     "open_issues": 0,
                     "owner": "hridaya423",
                     "repo": "silkreel",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": [
                       "animation",
                       "canvas",
@@ -1035,7 +1056,7 @@
                     "id": 1438834011,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-24T03:24:31Z",
+                    "last_commit": "2026-11-25T03:25:51Z",
                     "open_issues": 0,
                     "owner": "atuzlak",
                     "repo": "kicad-splitplane",
@@ -1094,7 +1115,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Open-source AI PCB design (EDA) in your browser: schematic, PCB layout, autorouter, DRC, KiCad import, Gerber/KiCad/Altium/STEP export. Design boards with Claude, ChatGPT or Cursor over MCP.",
+                    "description": "Open-source AI PCB design in your browser: schematic, PCB layout, autorouter, DRC, KiCad import, Gerber/KiCad/Altium/STEP export. Design boards with Claude, ChatGPT or Cursor over MCP.",
                     "homepage": "https://www.trycherryblossom.com",
                     "id": 1301041367,
                     "language": "TypeScript",
@@ -1262,7 +1283,7 @@
                     "open_issues": 50,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4660,
+                    "stars": 4663,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1293,10 +1314,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-24T16:58:08Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1754,
+                    "stars": 1761,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1421,11 +1442,11 @@
                     "id": 1129265934,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T14:04:10Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-11-25T11:57:45Z",
+                    "open_issues": 16,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 320,
+                    "stars": 326,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1545,7 +1566,7 @@
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 98,
+                    "stars": 99,
                     "topics": [
                       "browser",
                       "eda",
@@ -1599,7 +1620,7 @@
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -1664,7 +1685,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-11-24T16:00:41Z",
-                    "open_issues": 0,
+                    "open_issues": 2,
                     "owner": "flintt-dev",
                     "repo": "boardrepo-plugin",
                     "stars": 1,
@@ -1688,11 +1709,11 @@
                   "repo_info": {
                     "archived": false,
                     "description": "DC IR-drop of power nets on a KiCad board's real copper: pours, tracks, pads and via barrels; sense points, per-via current, loss map",
-                    "homepage": "https://firedance.io/open-source/kicad-irdrop/",
+                    "homepage": "https://www.getfiredance.com/open-source/kicad-irdrop/",
                     "id": 1419714099,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T10:42:03Z",
+                    "last_commit": "2026-11-25T14:20:02Z",
                     "open_issues": 0,
                     "owner": "firedanceio",
                     "repo": "kicad-irdrop",
@@ -1790,7 +1811,7 @@
                     "open_issues": 16,
                     "owner": "pointhi",
                     "repo": "kicad-color-schemes",
-                    "stars": 722,
+                    "stars": 723,
                     "topics": [
                       "color-scheme",
                       "colorscheme",
@@ -1844,7 +1865,7 @@
                     "open_issues": 0,
                     "owner": "Koppar-AI",
                     "repo": "autorouter-bench",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": [
                       "autorouter",
                       "benchmark",
@@ -2132,7 +2153,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2156,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:02:09.943Z",
+    "last_updated": "2026-11-25T19:03:11.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -2164,8 +2185,8 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-11-23T09:58:17Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-25T10:39:05Z",
+      "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
       "stars": 653,
@@ -2175,7 +2196,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "48d482fd22b839a7311bae39ba3c40b0b924d265",
+    "original_repository_sha": "57a36356ec34f4b65b084002ada08dff1a8d7a94",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
