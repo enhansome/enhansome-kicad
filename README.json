@@ -70,7 +70,7 @@
                     "open_issues": 3,
                     "owner": "msvisser",
                     "repo": "panelize-plugin",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": [
                       "kicad",
                       "kicad-plugin",
@@ -104,7 +104,7 @@
                     "open_issues": 47,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2154,
+                    "stars": 2156,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 628,
+                    "stars": 629,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -224,6 +224,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "gerber_to_order",
+                  "description": "A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A KiCad plugin project to create gerber files and zip files.",
+                    "homepage": null,
+                    "id": 197941385,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-29T12:17:32Z",
+                    "open_issues": 7,
+                    "owner": "asukiaaa",
+                    "repo": "gerber_to_order",
+                    "stars": 63,
+                    "topics": [
+                      "gerber-files",
+                      "kicad",
+                      "kicad-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "kicad-gerberzipper",
                   "description": "KiCad Plot and Zip",
                   "children": [],
@@ -240,31 +265,6 @@
                     "repo": "kicad-gerberzipper",
                     "stars": 62,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:47:07.624Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "gerber_to_order",
-                  "description": "A KiCad plugin to create zip compressed gerber files to order for Elecrow, FusionPCB, PCBWay or JLCPCB.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A KiCad plugin project to create gerber files and zip files.",
-                    "homepage": null,
-                    "id": 197941385,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-29T12:17:32Z",
-                    "open_issues": 7,
-                    "owner": "asukiaaa",
-                    "repo": "gerber_to_order",
-                    "stars": 62,
-                    "topics": [
-                      "gerber-files",
-                      "kicad",
-                      "kicad-plugin"
-                    ]
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
                 },
@@ -305,7 +305,7 @@
                     "open_issues": 2,
                     "owner": "imrehg",
                     "repo": "kicad-bom-seeedstudio",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": [
                       "kicad",
                       "kicad-plugin",
@@ -347,8 +347,8 @@
                     "id": 1067889432,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-24T10:42:02Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-11-26T17:09:55Z",
+                    "open_issues": 6,
                     "owner": "Mage-Control-Systems-Ltd",
                     "repo": "KiABOM",
                     "stars": 7,
@@ -381,6 +381,48 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PCB TraceMill",
+                  "description": "Mill KiCad boards at home on a hobby CNC router: reads the Gerber and drill files KiCad exports and writes G-code for Mach3, GRBL and LinuxCNC (isolation, drilling, cutout with tabs, 3D simulation, auto-levelling). Free and open source (MIT).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Free PCB milling software: Gerber & Excellon drill files to G-code for hobby CNC routers (Mach3, GRBL, LinuxCNC). Isolation, drilling, cutout, 3D simulation, auto-levelling. Windows, macOS, Linux.",
+                    "homepage": "https://aazriel.github.io/pcbtracemill/",
+                    "id": 1450679145,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-11-24T10:55:15Z",
+                    "open_issues": 0,
+                    "owner": "aazriel",
+                    "repo": "pcbtracemill",
+                    "stars": 2,
+                    "topics": [
+                      "autolevel",
+                      "autoleveling",
+                      "cam",
+                      "cnc",
+                      "cnc-router",
+                      "easyeda",
+                      "excellon",
+                      "flatcam-alternative",
+                      "gcode",
+                      "gerber",
+                      "gerber-to-gcode",
+                      "grbl",
+                      "hobby-cnc",
+                      "isolation-milling",
+                      "kicad",
+                      "linuxcnc",
+                      "mach3",
+                      "pcb",
+                      "pcb-milling",
+                      "pcb-prototyping"
+                    ]
+                  },
+                  "first_seen": "2026-11-21T16:40:56.528Z"
                 },
                 {
                   "node_type": "item",
@@ -445,48 +487,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "PCB TraceMill",
-                  "description": "Mill KiCad boards at home on a hobby CNC router: reads the Gerber and drill files KiCad exports and writes G-code for Mach3, GRBL and LinuxCNC (isolation, drilling, cutout with tabs, 3D simulation, auto-levelling). Free and open source (MIT).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Free PCB milling software: Gerber & Excellon drill files to G-code for hobby CNC routers (Mach3, GRBL, LinuxCNC). Isolation, drilling, cutout, 3D simulation, auto-levelling. Windows, macOS, Linux.",
-                    "homepage": "https://aazriel.github.io/pcbtracemill/",
-                    "id": 1450679145,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-11-24T10:55:15Z",
-                    "open_issues": 0,
-                    "owner": "aazriel",
-                    "repo": "pcbtracemill",
-                    "stars": 1,
-                    "topics": [
-                      "autolevel",
-                      "autoleveling",
-                      "cam",
-                      "cnc",
-                      "cnc-router",
-                      "easyeda",
-                      "excellon",
-                      "flatcam-alternative",
-                      "gcode",
-                      "gerber",
-                      "gerber-to-gcode",
-                      "grbl",
-                      "hobby-cnc",
-                      "isolation-milling",
-                      "kicad",
-                      "linuxcnc",
-                      "mach3",
-                      "pcb",
-                      "pcb-milling",
-                      "pcb-prototyping"
-                    ]
-                  },
-                  "first_seen": "2026-11-21T16:40:56.528Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "PCBA Partner Fabrication Toolkit",
                   "description": "Exports a Gerber/drill ZIP, grouped BOM and placement CSV from the saved project, with a pre-flight report on missing fields, a missing board outline and BOM/placement differences. Runs locally, vendor-neutral.",
                   "children": [],
@@ -529,7 +529,7 @@
                     "open_issues": 35,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2269,
+                    "stars": 2275,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -565,7 +565,7 @@
                     "open_issues": 47,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1732,
+                    "stars": 1733,
                     "topics": [
                       "eda",
                       "electronics",
@@ -677,7 +677,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 789,
+                    "stars": 790,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -701,7 +701,7 @@
                     "open_issues": 24,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
-                    "stars": 765,
+                    "stars": 766,
                     "topics": [
                       "3d-models",
                       "automation",
@@ -1056,7 +1056,7 @@
                     "id": 1438834011,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-25T03:25:51Z",
+                    "last_commit": "2026-11-26T03:24:24Z",
                     "open_issues": 0,
                     "owner": "atuzlak",
                     "repo": "kicad-splitplane",
@@ -1317,7 +1317,7 @@
                     "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1761,
+                    "stars": 1766,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1359,7 +1359,7 @@
                     "open_issues": 61,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1175,
+                    "stars": 1176,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1442,11 +1442,11 @@
                     "id": 1129265934,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-25T11:57:45Z",
+                    "last_commit": "2026-11-26T11:10:47Z",
                     "open_issues": 16,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1464,7 +1464,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-06-26T14:11:50Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "Gasman2014",
                     "repo": "KiCad-Diff",
                     "stars": 295,
@@ -1620,7 +1620,7 @@
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -1938,7 +1938,7 @@
                 "open_issues": 12,
                 "owner": "Alarm-Siren",
                 "repo": "arduino-kicad-library",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "arduino",
                   "arduino-uno",
@@ -2024,7 +2024,7 @@
                 "id": 1444044172,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-22T15:49:34Z",
+                "last_commit": "2026-11-26T06:03:12Z",
                 "open_issues": 0,
                 "owner": "pcbapartner",
                 "repo": "gerber-layer-checks-teaching-pack",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:03:11.476Z",
+    "last_updated": "2026-11-26T18:54:05.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -2186,10 +2186,10 @@
       "language": "Python",
       "license": "GPL-3.0",
       "last_commit": "2026-11-25T10:39:05Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "joanbono",
       "repo": "awesome-kicad",
-      "stars": 653,
+      "stars": 655,
       "topics": [
         "awesome",
         "awesome-list",
