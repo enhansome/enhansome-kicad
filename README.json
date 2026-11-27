@@ -104,7 +104,7 @@
                     "open_issues": 47,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2156,
+                    "stars": 2157,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -462,8 +462,8 @@
                     "id": 1336763131,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T02:17:12Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-27T02:17:13Z",
+                    "open_issues": 1,
                     "owner": "mo9652962-ai",
                     "repo": "wave-fixture-ai",
                     "stars": 1,
@@ -529,7 +529,7 @@
                     "open_issues": 35,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2275,
+                    "stars": 2276,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -565,7 +565,7 @@
                     "open_issues": 47,
                     "owner": "devbisme",
                     "repo": "skidl",
-                    "stars": 1733,
+                    "stars": 1734,
                     "topics": [
                       "eda",
                       "electronics",
@@ -697,7 +697,7 @@
                     "id": 246344800,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-24T12:54:13Z",
+                    "last_commit": "2026-11-27T14:12:14Z",
                     "open_issues": 24,
                     "owner": "INTI-CMNB",
                     "repo": "KiBot",
@@ -880,7 +880,7 @@
                     "open_issues": 8,
                     "owner": "Shaurya-Sethi",
                     "repo": "circuitron",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": [
                       "agentic-ai",
                       "circuit-design",
@@ -1046,6 +1046,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "KiCad AI Router",
+                  "description": "KiCad 10 plugin that plans routing strategy with an LLM and routes/finishes boards with the TraceMaker engine — via patterns, escape routing, copper pours and cleanup. GPL-3.0.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad 10 plugin + backend: deterministic, gate-verified PCB routing with an LLM as strategy-only orchestrator",
+                    "homepage": null,
+                    "id": 1468091067,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-27T17:31:29Z",
+                    "open_issues": 21,
+                    "owner": "kaushikray2",
+                    "repo": "kicad-ai-router",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-27T18:46:23.732Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "kicad-splitplane",
                   "description": "Splits an inner power layer into exactly one continuous zone per supply net (e.g. +5V, +3V3, +1V8), computed from the nets' vias and through-hole pads, and writes the zones into the board. Reports trapped vias with a suggested new position, islands and thin necks; optionally follows the board's clearance rules and keepout areas. KiCad 9/10 plugin (in the PCM), CLI, Python library and MCP server.",
                   "children": [],
@@ -1056,7 +1077,7 @@
                     "id": 1438834011,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T03:24:24Z",
+                    "last_commit": "2026-11-27T03:25:04Z",
                     "open_issues": 0,
                     "owner": "atuzlak",
                     "repo": "kicad-splitplane",
@@ -1283,7 +1304,7 @@
                     "open_issues": 50,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4663,
+                    "stars": 4665,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1317,7 +1338,7 @@
                     "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1766,
+                    "stars": 1773,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1425,7 +1446,7 @@
                     "open_issues": 44,
                     "owner": "easyw",
                     "repo": "kicadStepUpMod",
-                    "stars": 707,
+                    "stars": 708,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -1446,7 +1467,7 @@
                     "open_issues": 16,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 327,
+                    "stars": 329,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1484,7 +1505,7 @@
                     "id": 719551090,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T09:50:23Z",
+                    "last_commit": "2026-11-27T14:38:00Z",
                     "open_issues": 10,
                     "owner": "antmicro",
                     "repo": "gerber2ems",
@@ -1562,7 +1583,7 @@
                     "id": 1280911053,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-20T06:08:47Z",
+                    "last_commit": "2026-11-26T20:27:53Z",
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
@@ -1688,7 +1709,7 @@
                     "open_issues": 2,
                     "owner": "flintt-dev",
                     "repo": "boardrepo-plugin",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": [
                       "claude-plugin",
                       "codex-plugin",
@@ -2177,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:54:05.504Z",
+    "last_updated": "2026-11-27T18:46:23.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
@@ -2185,8 +2206,8 @@
       "id": 358150819,
       "language": "Python",
       "license": "GPL-3.0",
-      "last_commit": "2026-11-25T10:39:05Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-27T12:13:35Z",
+      "open_issues": 0,
       "owner": "joanbono",
       "repo": "awesome-kicad",
       "stars": 655,
@@ -2196,7 +2217,7 @@
         "kicad"
       ]
     },
-    "original_repository_sha": "57a36356ec34f4b65b084002ada08dff1a8d7a94",
+    "original_repository_sha": "727098bdfbb708f879e4d8d482cc7f512c1a8a08",
     "enhanced_repository": "enhansome/enhansome-kicad",
     "enhanced_repository_description": null,
     "title": "Awesome Kicad with stars"
