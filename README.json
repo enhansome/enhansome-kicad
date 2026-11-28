@@ -100,11 +100,11 @@
                     "id": 392330374,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-23T03:49:30Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-11-27T22:43:27Z",
+                    "open_issues": 48,
                     "owner": "Bouni",
                     "repo": "kicad-jlcpcb-tools",
-                    "stars": 2157,
+                    "stars": 2158,
                     "topics": [
                       "action-plugin",
                       "eda",
@@ -133,7 +133,7 @@
                     "open_issues": 32,
                     "owner": "hildogjr",
                     "repo": "KiCost",
-                    "stars": 629,
+                    "stars": 628,
                     "topics": [
                       "altium",
                       "bill-of-materials",
@@ -162,7 +162,7 @@
                     "open_issues": 31,
                     "owner": "SchrodingersGat",
                     "repo": "KiBoM",
-                    "stars": 374,
+                    "stars": 373,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:47:07.624Z"
@@ -529,7 +529,7 @@
                     "open_issues": 35,
                     "owner": "freerouting",
                     "repo": "freerouting",
-                    "stars": 2276,
+                    "stars": 2281,
                     "topics": [
                       "auto-route",
                       "auto-router",
@@ -562,7 +562,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-09T19:03:03Z",
-                    "open_issues": 47,
+                    "open_issues": 49,
                     "owner": "devbisme",
                     "repo": "skidl",
                     "stars": 1734,
@@ -592,7 +592,7 @@
                     "open_issues": 10,
                     "owner": "yaqwsx",
                     "repo": "PcbDraw",
-                    "stars": 1461,
+                    "stars": 1462,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -677,7 +677,7 @@
                     "open_issues": 6,
                     "owner": "sethhillbrand",
                     "repo": "kicad_templates",
-                    "stars": 790,
+                    "stars": 791,
                     "topics": [
                       "kicad",
                       "kicad-templates"
@@ -999,6 +999,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "KiCad AI Router",
+                  "description": "KiCad 10 plugin that plans routing strategy with an LLM and routes/finishes boards with the TraceMaker engine — via patterns, escape routing, copper pours and cleanup. GPL-3.0.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KiCad 10 plugin + backend: deterministic, gate-verified PCB routing with an LLM as strategy-only orchestrator",
+                    "homepage": null,
+                    "id": 1468091067,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-28T05:50:46Z",
+                    "open_issues": 18,
+                    "owner": "kaushikray2",
+                    "repo": "kicad-ai-router",
+                    "stars": 10,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-27T18:46:23.732Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "NCCM",
                   "description": "Net Class Clearance Matrix (NCCM) to generate custom rules for clearances between net classes through a matrix GUI.",
                   "children": [],
@@ -1046,27 +1067,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "KiCad AI Router",
-                  "description": "KiCad 10 plugin that plans routing strategy with an LLM and routes/finishes boards with the TraceMaker engine — via patterns, escape routing, copper pours and cleanup. GPL-3.0.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "KiCad 10 plugin + backend: deterministic, gate-verified PCB routing with an LLM as strategy-only orchestrator",
-                    "homepage": null,
-                    "id": 1468091067,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-27T17:31:29Z",
-                    "open_issues": 21,
-                    "owner": "kaushikray2",
-                    "repo": "kicad-ai-router",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-11-27T18:46:23.732Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "kicad-splitplane",
                   "description": "Splits an inner power layer into exactly one continuous zone per supply net (e.g. +5V, +3V3, +1V8), computed from the nets' vias and through-hole pads, and writes the zones into the board. Reports trapped vias with a suggested new position, islands and thin necks; optionally follows the board's clearance rules and keepout areas. KiCad 9/10 plugin (in the PCM), CLI, Python library and MCP server.",
                   "children": [],
@@ -1077,7 +1077,7 @@
                     "id": 1438834011,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-27T03:25:04Z",
+                    "last_commit": "2026-11-28T03:23:34Z",
                     "open_issues": 0,
                     "owner": "atuzlak",
                     "repo": "kicad-splitplane",
@@ -1304,7 +1304,7 @@
                     "open_issues": 50,
                     "owner": "openscopeproject",
                     "repo": "InteractiveHtmlBom",
-                    "stars": 4665,
+                    "stars": 4664,
                     "topics": [
                       "action-plugin",
                       "bom-tool",
@@ -1338,7 +1338,7 @@
                     "open_issues": 4,
                     "owner": "aklofas",
                     "repo": "kicad-happy",
-                    "stars": 1773,
+                    "stars": 1775,
                     "topics": [
                       "ai-skills",
                       "bom-management",
@@ -1380,7 +1380,7 @@
                     "open_issues": 61,
                     "owner": "theacodes",
                     "repo": "kicanvas",
-                    "stars": 1176,
+                    "stars": 1178,
                     "topics": [
                       "canvas",
                       "kicad",
@@ -1464,10 +1464,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-26T11:10:47Z",
-                    "open_issues": 16,
+                    "open_issues": 18,
                     "owner": "krishna-swaroop",
                     "repo": "KiCAD-Prism",
-                    "stars": 329,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-10-16T13:51:38.454Z"
@@ -1587,7 +1587,7 @@
                     "open_issues": 19,
                     "owner": "ZiroEDA",
                     "repo": "ziro-designer",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": [
                       "browser",
                       "eda",
@@ -1641,7 +1641,7 @@
                     "open_issues": 0,
                     "owner": "riehlies",
                     "repo": "kisi",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": [
                       "kicad",
                       "pcb",
@@ -1955,7 +1955,7 @@
                 "id": 89703898,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-18T23:01:57Z",
+                "last_commit": "2026-11-28T09:03:16Z",
                 "open_issues": 12,
                 "owner": "Alarm-Siren",
                 "repo": "arduino-kicad-library",
@@ -2007,7 +2007,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4991,
+                "stars": 4992,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:47:07.624Z"
@@ -2174,7 +2174,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2198,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:46:23.732Z",
+    "last_updated": "2026-11-28T17:26:29.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome KiCad plugins and resources",
